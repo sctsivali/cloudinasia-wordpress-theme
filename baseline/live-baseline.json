@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "source_kind": "read-only mirror of active production theme",
+  "source_environment": "production",
+  "infrastructure_provenance": "redacted from public repository",
+  "theme": "cia-recovery-3.7.1",
+  "file_count": 108,
+  "total_bytes": 4232141,
+  "original_release_manifest_version": "3.7.1",
+  "original_manifest_mismatch_count": 9,
+  "original_manifest_mismatch_paths": [
+    "assets/cia-chrome.css",
+    "footer.php",
+    "functions.php",
+    "header.php",
+    "home.php",
+    "page-about.php",
+    "page-speakers.php",
+    "page.php",
+    "style.css"
+  ],
+  "note": "The theme directory is byte-identical to the inspected live mirror. Repository documentation and this baseline metadata are outside the theme directory."
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "inti",
+    "name": "INTI",
+    "role": "Strategic collaboration / MoU for CROSS 2026",
+    "evidence": "Cloud in Asia published post 913",
+    "source_url": "https://inti.asia/assets/2026/image/logo_inti_1.png",
+    "sha256": "95e54df20f6ccdaee99f7d61d996c6d7ee60dd14a8df9cc1b551d7aa84a02c19",
+    "dimensions": [
+      1797,
+      247
+    ],
+    "rights_note": "First-party public brand asset; display only to identify the evidenced collaboration role."
+  },
+  {
+    "slug": "sivali",
+    "name": "Sivali Cloud Technology",
+    "role": "CROSS webinar supporter",
+    "evidence": "Cloud in Asia published event 797",
+    "source_url": "https://sivali.co/wp-content/uploads/2023/10/Logo-SCL-Dark.png",
+    "sha256": "4dd4c2e4ffd10bfebaf06f97d088236a36230e567e514d298dbe1b44adb541dc",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "rights_note": "First-party public brand asset; display only to identify the evidenced collaboration role."
+  },
+  {
+    "slug": "unjaya",
+    "name": "Universitas Jenderal Achmad Yani Yogyakarta",
+    "role": "CROSS 2026 host campus",
+    "evidence": "Cloud in Asia published post 877",
+    "source_url": "https://unjaya.ac.id/wp-content/uploads/2025/04/logo-text-unjaya.png",
+    "sha256": "d57601a5e1d48760f575a0cb30a790ee00ed03624193ad662497d5af2e4a9487",
+    "dimensions": [
+      2126,
+      691
+    ],
+    "rights_note": "First-party public brand asset; display only to identify the evidenced collaboration role."
+  }
+]

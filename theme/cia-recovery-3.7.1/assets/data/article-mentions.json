@@ -1,0 +1,73 @@
+{
+  "schema": "cia.article_mentions.v1",
+  "source": "audited_published_corpus",
+  "posts": {
+    "1045": [
+      "Veros Mohamed"
+    ],
+    "1052": [
+      "Joyce Young",
+      "Leo Sun",
+      "Ryo Ardian",
+      "Sikander Singh",
+      "Zhang Lei Mao"
+    ],
+    "1018": [
+      "Egi Adithia Pradana",
+      "Veros Mohamed",
+      "Wakhid Herri Nurcahyo"
+    ],
+    "996": [
+      "Agung Budi Prasetio",
+      "Dayu Destamy Ariefin",
+      "Wakhid Herri Nurcahyo"
+    ],
+    "1013": [
+      "Onno W Purbo"
+    ],
+    "982": [
+      "Veros Mohamed",
+      "Wong Sui Jan"
+    ],
+    "898": [
+      "Hendra Permana"
+    ],
+    "431": [
+      "Veros Mohamed"
+    ],
+    "877": [
+      "Bambang Purnomosidi",
+      "Eka Indarto",
+      "Farah Zahira",
+      "Gildas Deograt Lumy",
+      "I Made Wiryana Dr., rer. nat, SSi., SKom., MSc.",
+      "Ir Dedy Hariyadi, S.T., M.Kom",
+      "Onno W Purbo",
+      "Ryo Ardian",
+      "Wilson Lisan"
+    ],
+    "865": [
+      "Farah Zahira",
+      "Wong Sui Jan"
+    ],
+    "843": [
+      "Andre Daegal",
+      "Chanief Budi Setiawan",
+      "Farah Zahira",
+      "Ir Dedy Hariyadi, S.T., M.Kom",
+      "Muhammad Alif Ramadan",
+      "Onno W Purbo",
+      "Ryo Ardian",
+      "Veros Mohamed",
+      "Wong Sui Jan"
+    ],
+    "818": [
+      "Agung Budi Prasetio",
+      "Veros Mohamed"
+    ],
+    "812": [
+      "I Made Wiryana Dr., rer. nat, SSi., SKom., MSc.",
+      "Onno W Purbo"
+    ]
+  }
+}

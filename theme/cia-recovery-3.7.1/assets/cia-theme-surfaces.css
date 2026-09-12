@@ -1,0 +1,122 @@
+/* Cloud in Asia 3.4.0 — global content theme surfaces
+ * This layer themes page content only. Header, drawer, and footer chrome stay black.
+ */
+:root{
+  --cia-page-bg:#f3f1eb;
+  --cia-content-surface:#ffffff;
+  --cia-content-raised:#ece9e1;
+  --cia-content-ink:#171917;
+  --cia-content-body:#30332f;
+  --cia-content-muted:#5a5f59;
+  --cia-content-line:#c7cac4;
+  --cia-content-input:#fafafa;
+  --cia-content-chip:#e5e6e1;
+  --cia-content-link:#166d50;
+  --cia-content-filter:rgba(255,255,255,.96);
+  --cia-content-shadow:rgba(25,27,24,.09);
+  --cia-article-hero:linear-gradient(135deg,#edeee9 0%,#f7f6f2 58%,#e7f3ed 100%);
+}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{
+  --cia-page-bg:#141414;
+  --cia-content-surface:#1b1b1b;
+  --cia-content-raised:#222222;
+  --cia-content-ink:#f4f4f4;
+  --cia-content-body:#dedede;
+  --cia-content-muted:#b4b8b5;
+  --cia-content-line:#444844;
+  --cia-content-input:#242424;
+  --cia-content-chip:#303330;
+  --cia-content-link:#75d9b0;
+  --cia-content-filter:rgba(20,20,20,.96);
+  --cia-content-shadow:rgba(0,0,0,.32);
+  --cia-article-hero:linear-gradient(135deg,#202420 0%,#141414 58%,#17251f 100%);
+  color-scheme:dark;
+}
+.section-brow{
+  display:inline-flex;
+  width:fit-content;
+  align-items:center;
+  gap:.7rem;
+  margin-top:0;
+  color:#177353;
+  font:700 .7rem/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.section-brow::before{
+  content:"";
+  width:26px;
+  height:2px;
+  flex:0 0 26px;
+  background:currentColor;
+}
+:root[data-theme="dark"] .section-brow{color:#60bd91}
+body{background:var(--cia-page-bg);color:var(--cia-content-ink)}
+body.home,body.home main{background:var(--cia-page-bg);color:var(--cia-content-ink)}
+
+/* Shared page, article, directory, taxonomy, search, and fallback surfaces. */
+.editorial-surface{background:var(--cia-page-bg);color:var(--cia-content-ink)}
+.editorial-page-hero,.editorial-article-hero{border-color:var(--cia-content-line);background:var(--cia-content-raised)}
+.editorial-deck,.editorial-meta,.editorial-story-copy p,.people-directory-summary span,.speaker-note,.people-metrics,.editorial-context{color:var(--cia-content-muted)}
+.editorial-listing,.editorial-page-main,.people-directory-main{background:var(--cia-content-surface)}
+.editorial-archive-grid,.editorial-story-card,.editorial-directory-grid,.editorial-directory-card,.people-card,.people-portrait,.speaker-profile-portrait,.editorial-pagination .page-numbers,.editorial-context{border-color:var(--cia-content-line)}
+.editorial-story-card,.editorial-directory-card,.editorial-pagination .page-numbers,.editorial-context{background:var(--cia-content-surface);color:var(--cia-content-ink)}
+.entry.editorial-article-body,.entry.editorial-page-body,.editorial-surface .entry-content,.editorial-surface .entry-content h2,.editorial-surface .entry-content h3,.people-metrics strong{color:var(--cia-content-body)}
+.editorial-surface .entry-content a,.editorial-meta a{color:var(--cia-content-link)}
+.editorial-surface .entry-content blockquote{border-color:#60bd91;background:var(--cia-content-raised);color:var(--cia-content-body)}
+.editorial-surface .entry-content figcaption{color:var(--cia-content-muted)}
+.editorial-surface .entry-content th,.editorial-surface .entry-content td{border-color:var(--cia-content-line)}
+.editorial-empty{border-color:var(--cia-content-line);background:var(--cia-content-input);color:var(--cia-content-muted)}
+.people-portrait,.speaker-profile-portrait{background:var(--cia-content-raised);color:var(--cia-content-muted)}
+
+/* Modern single article. */
+.article-modern{
+  --article-bg:var(--cia-page-bg);
+  --article-surface:var(--cia-content-surface);
+  --article-ink:var(--cia-content-ink);
+  --article-muted:var(--cia-content-muted);
+  --article-line:var(--cia-content-line);
+  background:var(--article-bg);color:var(--article-ink)
+}
+.article-modern-hero{background:var(--cia-article-hero)}
+.article-modern .entry-content{color:var(--cia-content-body)}
+.article-modern .entry-content h2,.article-modern .entry-content h3{color:var(--cia-content-ink)}
+.article-modern-context{background:var(--cia-content-surface);box-shadow:0 12px 34px var(--cia-content-shadow)}
+
+/* Explore archive, categories, search, and 404/index fallback. */
+.archive-portal{
+  --ap-ink:var(--cia-content-ink);
+  --ap-muted:var(--cia-content-muted);
+  --ap-line:var(--cia-content-line);
+  --ap-paper:var(--cia-content-raised);
+  background:var(--cia-page-bg);color:var(--ap-ink)
+}
+.archive-portal-header,.archive-portal-featured{background:var(--ap-paper)}
+.archive-portal-featured-media{background:var(--cia-content-raised)}
+.archive-portal-filters{background:var(--cia-content-filter)}
+.archive-portal-load-more{border-color:var(--ap-ink);background:var(--cia-content-surface);color:var(--ap-ink)}
+.archive-portal-load-more:hover,.archive-portal-filters button:hover,.archive-portal-filters button.is-active{background:var(--ap-ink);color:var(--cia-page-bg)}
+.archive-portal-institutions b{border-color:#48876c;background:var(--cia-content-raised);color:var(--cia-content-ink)}
+
+/* Event archive and single-event inspector. */
+.events-explore,.event-inspect{background:var(--cia-page-bg);color:var(--cia-content-ink)}
+.events-explore-hero,.event-inspect-hero{border-color:var(--cia-content-line);background:var(--cia-content-raised)}
+.events-explore-hero>.container>p,.events-filter-bar label,.event-market-meta,.event-market-card p,.event-inspect-copy .entry-content,.event-detail-panel dt,.event-registration-note,.event-stream-link{color:var(--cia-content-muted)}
+.events-filter-bar{border-color:var(--cia-content-line);background:var(--cia-content-surface);box-shadow:0 12px 34px var(--cia-content-shadow)}
+.events-filter-bar input,.events-filter-bar select{border-color:var(--cia-content-line);background:var(--cia-content-input);color:var(--cia-content-ink)}
+.events-results{background:var(--cia-content-surface)}
+.events-archive-results{border-color:var(--cia-content-line);background:var(--cia-page-bg)}
+.events-section-head,.event-market-grid,.event-market-card,.event-inspect-copy,.event-people{border-color:var(--cia-content-line)}
+.event-market-card,.event-detail-panel,.event-people-list a,.event-people-list span{border-color:var(--cia-content-line);background:var(--cia-content-surface);color:var(--cia-content-ink)}
+.event-state{background:var(--cia-content-chip);color:var(--cia-content-ink)}
+.event-state-open{background:#244b3b;color:#a9ebce}
+.event-state-scheduled{background:#554916;color:#ffe68a}
+.event-inspect-copy .entry-content h2,.event-inspect-copy .entry-content h3,.event-detail-panel dd{color:var(--cia-content-ink)}
+.event-detail-panel{box-shadow:0 18px 38px var(--cia-content-shadow)}
+.event-detail-panel dl>div{border-color:var(--cia-content-line)}
+.event-registration-note,.event-stream-link{background:var(--cia-content-raised)}
+
+@media (prefers-reduced-motion: reduce){
+  .archive-portal-filters{backdrop-filter:none}
+}

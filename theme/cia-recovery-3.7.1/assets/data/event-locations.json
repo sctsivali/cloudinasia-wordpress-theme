@@ -1,0 +1,153 @@
+{
+  "schema": "cia.event_locations.curated.v1",
+  "generated_at": "2026-08-30",
+  "coordinate_policy": "Venue coordinates are extracted from the event Google Maps link stored in CMS; Jakarta-only record uses an OpenStreetMap/Nominatim city centroid and is explicitly marked city precision. Virtual venues are not mapped.",
+  "records": [
+    {
+      "id": "jakarta-international-expo",
+      "label": "Jakarta International Expo, Kemayoran",
+      "city": "Jakarta",
+      "lat": -6.1463876,
+      "lon": 106.8458626,
+      "precision": "venue",
+      "aliases": [
+        "Jakarta International Expo (JI EXPO) Kemayoran, Jakarta"
+      ],
+      "source_url": "https://maps.app.goo.gl/cFE3inQd72SoLoJF8",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "president-lounge-menara-batavia",
+      "label": "The President Lounge, Menara Batavia",
+      "city": "Jakarta",
+      "lat": -6.210838,
+      "lon": 106.815774,
+      "precision": "venue",
+      "aliases": [
+        "President Lounge, Menara Batavia"
+      ],
+      "source_url": "https://maps.app.goo.gl/UJAzPCkeSxQZnsJb6",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "unjaya-kampus-1",
+      "label": "Universitas Jenderal Achmad Yani Yogyakarta, Kampus 1",
+      "city": "Yogyakarta",
+      "lat": -7.7933448,
+      "lon": 110.3307037,
+      "precision": "venue",
+      "aliases": [
+        "Aula Utama Kampus 1 Universitas Jenderal Ahmad Yani, Yogyakarta"
+      ],
+      "source_url": "https://maps.app.goo.gl/2Lzm9yJ5vrcG8FuU9",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "kode-creative-hub-depok",
+      "label": "Kode Creative Hub, Depok Town Square",
+      "city": "Depok",
+      "lat": -6.372554,
+      "lon": 106.8316588,
+      "precision": "venue",
+      "aliases": [
+        "Kode Creative Hub, Depok Town Square",
+        "Kode Creative Hub, Detos lt. UG, Depok"
+      ],
+      "source_url": "https://maps.app.goo.gl/CXhpMdRvFbMCxEL69",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "president-executive-club-jababeka",
+      "label": "President Executive Club, Jababeka",
+      "city": "Cikarang",
+      "lat": -6.297307,
+      "lon": 107.1483688,
+      "precision": "venue",
+      "aliases": [
+        "President Executive Club, Jababeka – Cikarang",
+        "President Executive Club, Jababeka - Cikarang"
+      ],
+      "source_url": "https://maps.app.goo.gl/bebXs2kw2v1P4QVb8",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "artotel-thamrin",
+      "label": "BART at ARTOTEL Thamrin",
+      "city": "Jakarta",
+      "lat": -6.1888242,
+      "lon": 106.8248186,
+      "precision": "venue",
+      "aliases": [
+        "BART at 7th Floor ARTOTEL THAMRIN - JAKARTA"
+      ],
+      "source_url": "https://maps.app.goo.gl/h3ehskgtZpA66TC17",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "bandung-creative-hub",
+      "label": "Bandung Creative Hub",
+      "city": "Bandung",
+      "lat": -6.9184662,
+      "lon": 107.631219,
+      "precision": "venue",
+      "aliases": [
+        "Bandung Creative Hub, Lt.3, Jl. Laswi No.7, Bandung"
+      ],
+      "source_url": "https://maps.app.goo.gl/RwXeTn1d9GCviXdS8",
+      "source_type": "CMS map link plus OpenStreetMap/Nominatim"
+    },
+    {
+      "id": "soehanna-hall",
+      "label": "Soehanna Hall, Energy Building",
+      "city": "Jakarta",
+      "lat": -6.2262809,
+      "lon": 106.8064111,
+      "precision": "venue",
+      "aliases": [
+        "Soehanna Hall, Energy Building, Jakarta"
+      ],
+      "source_url": "https://maps.app.goo.gl/xKXUjr9GWDZ2mbB38",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "jakarta-city",
+      "label": "Jakarta (venue detail unavailable)",
+      "city": "Jakarta",
+      "lat": -6.1754049,
+      "lon": 106.827168,
+      "precision": "city",
+      "aliases": [
+        "Jakarta"
+      ],
+      "source_url": "https://www.openstreetmap.org/relation/6362934",
+      "source_type": "OpenStreetMap/Nominatim city centroid"
+    },
+    {
+      "id": "sekolah-vokasi-ugm",
+      "label": "Sekolah Vokasi Universitas Gadjah Mada",
+      "city": "Yogyakarta",
+      "lat": -7.773925,
+      "lon": 110.3724235,
+      "precision": "venue",
+      "aliases": [
+        "BREAKOUT ROOM 2"
+      ],
+      "source_url": "https://maps.app.goo.gl/N5cfxQUr4sTV32LB6",
+      "source_type": "CMS Google Maps target"
+    },
+    {
+      "id": "itts",
+      "label": "Institut Teknologi Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "lat": -6.2744472,
+      "lon": 106.6567018,
+      "precision": "venue",
+      "aliases": [
+        "Perpustakaan ITTS",
+        "Kampus Institut Teknologi Tangerang Selatan"
+      ],
+      "source_url": "https://maps.app.goo.gl/EnW5xkZfrJuDa7XJA",
+      "source_type": "CMS Google Maps target"
+    }
+  ]
+}

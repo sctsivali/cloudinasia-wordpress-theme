@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "amd",
+    "source_url": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+    "resolved_url": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+    "content_type": "image/svg+xml",
+    "file": "amd.svg",
+    "sha256": "637d36ef706c905033ec2de7023b78918bfd2c4e740ad108e2c34461fa17b820",
+    "dimensions": [
+      "svg",
+      "svg"
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "ibi-kosgoro",
+    "source_url": "https://www.ibi-k57.ac.id/wp-content/uploads/2024/07/logo-rev.png",
+    "resolved_url": "https://www.ibi-k57.ac.id/wp-content/uploads/2024/07/logo-rev.png",
+    "content_type": "image/png",
+    "file": "ibi-kosgoro.png",
+    "sha256": "7da756f4c305929959641bbf03db403ab03778282ec7b22249d29dc9403b132c",
+    "dimensions": [
+      633,
+      156
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "institut-teknologi-tangerang-selatan",
+    "source_url": "https://itts.ac.id/public/icons/icon-192.png",
+    "resolved_url": "https://itts.ac.id/public/icons/icon-192.png",
+    "content_type": "image/png",
+    "file": "institut-teknologi-tangerang-selatan.png",
+    "sha256": "35a300fd1c0ccef1752208ab8d9fbaeefee37c7daea6583b0534162d5f925863",
+    "dimensions": [
+      192,
+      192
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "komdigi",
+    "source_url": "https://portal.komdigi.go.id/dist/img/logo-v6.png",
+    "resolved_url": "https://portal.komdigi.go.id/dist/img/logo-v6.png",
+    "content_type": "image/png",
+    "file": "komdigi.png",
+    "sha256": "b6cdcc7b4199a78652aee93215edc1b11d64f169258feedb86134449b702abd0",
+    "dimensions": [
+      4214,
+      2029
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "onno-center-international",
+    "source_url": "http://onnocenter.or.id/apple-touch-icon-114x114.png",
+    "resolved_url": "http://onnocenter.or.id/apple-touch-icon-114x114.png",
+    "content_type": "image/png",
+    "file": "onno-center-international.png",
+    "sha256": "1997061d41001574b7ce0797a248b545183dd255a1c845b1f17052517ba9de6a",
+    "dimensions": [
+      114,
+      114
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "sahabat-ubuntu-indonesia",
+    "source_url": "https://media.licdn.com/dms/image/v2/D560BAQFbnloFZyYvjA/company-logo_200_200/B56Zk9b2lJJwAI-/0/1757672336309/sahabat_ubuntu_indonesia_logo?e=2147483647&v=beta&t=flNe_Zbt54Ilumw8RpyjeOapKwAuR_u1gwHIwZ7zMoo",
+    "resolved_url": "https://media.licdn.com/dms/image/v2/D560BAQFbnloFZyYvjA/company-logo_200_200/B56Zk9b2lJJwAI-/0/1757672336309/sahabat_ubuntu_indonesia_logo?e=2147483647&v=beta&t=flNe_Zbt54Ilumw8RpyjeOapKwAuR_u1gwHIwZ7zMoo",
+    "content_type": "image/jpeg",
+    "file": "sahabat-ubuntu-indonesia.png",
+    "sha256": "2f05bbfe75f50e8f09cf3a39a2174dbbb477c49cbefbe4c9a9cd57e09aa365ef",
+    "dimensions": [
+      200,
+      200
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "sekolah-vokasi-universitas-gajah-mada",
+    "source_url": "https://ugm.ac.id/wp-content/uploads/2022/11/ugm_header.png",
+    "resolved_url": "https://ugm.ac.id/wp-content/uploads/2022/11/ugm_header.png",
+    "content_type": "image/png",
+    "file": "sekolah-vokasi-universitas-gajah-mada.png",
+    "sha256": "e728514bf652c5a14a0fee94ff49b0b19b33fffc5e450fbea8c202159ce2d24e",
+    "dimensions": [
+      68,
+      70
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "sivali-cloud-technology",
+    "source_url": "https://sivali.co/wp-content/uploads/2023/10/Logo-SCL-Dark.png",
+    "resolved_url": "locally verified prior first-party asset",
+    "content_type": "image/png",
+    "file": "sivali-cloud-technology.png",
+    "sha256": "4dd4c2e4ffd10bfebaf06f97d088236a36230e567e514d298dbe1b44adb541dc",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "telkom-university",
+    "source_url": "https://b856188.assetcdn.net/2.0/856188/wp-content/uploads/2022/02/logo3-e1511767184374.png?lossy=2&strip=1&webp=1",
+    "resolved_url": "https://b856188.assetcdn.net/2.0/856188/wp-content/uploads/2022/02/logo3-e1511767184374.png?lossy=2&strip=1&webp=1",
+    "content_type": "image/png",
+    "file": "telkom-university.png",
+    "sha256": "5fcf91a533e83f5ad5d609abfbf89bc859749027357a197dba168d81c40fde40",
+    "dimensions": [
+      140,
+      52
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "ubuntu-indonesia",
+    "source_url": "https://ubuntu-id.org/img/favicon/apple-touch-icon.png",
+    "resolved_url": "https://ubuntu-id.org/img/favicon/apple-touch-icon.png",
+    "content_type": "image/png",
+    "file": "ubuntu-indonesia.png",
+    "sha256": "da73b12e2e3220c9f2cdff982b89f0f0e403e2ee42fe6fe58d0c53fd2aae0427",
+    "dimensions": [
+      180,
+      180
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "universitas-jenderal-achmad-yani-yogyakarta",
+    "source_url": "https://unjaya.ac.id/wp-content/uploads/2025/04/logo-text-unjaya.png",
+    "resolved_url": "locally verified prior first-party asset",
+    "content_type": "image/png",
+    "file": "universitas-jenderal-achmad-yani-yogyakarta.png",
+    "sha256": "d57601a5e1d48760f575a0cb30a790ee00ed03624193ad662497d5af2e4a9487",
+    "dimensions": [
+      2126,
+      691
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "universitas-lia",
+    "source_url": "https://www.universitaslia.ac.id/wp-content/uploads/2025/06/Logo-Universitas-LIA-scaled.png",
+    "resolved_url": "https://www.universitaslia.ac.id/wp-content/uploads/2025/06/Logo-Universitas-LIA-scaled.png",
+    "content_type": "image/png",
+    "file": "universitas-lia.png",
+    "sha256": "601eb827a8e1779c049931d8d5ac73757c1973ef2149b5b635eadeb91094cf1b",
+    "dimensions": [
+      2560,
+      576
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  },
+  {
+    "slug": "xecureit",
+    "source_url": "https://xecureit.id/wp-content/uploads/2020/10/logo-5.0-XecureiT-2-300x73.png",
+    "resolved_url": "https://xecureit.id/wp-content/uploads/2020/10/logo-5.0-XecureiT-2-300x73.png",
+    "content_type": "image/png",
+    "file": "xecureit.png",
+    "sha256": "def11cd5b81cd83445f11d257e39f513335daa9753c060f9e78cf79383433e48",
+    "dimensions": [
+      300,
+      73
+    ],
+    "rights_note": "First-party public brand asset used only to identify an entity evidenced in Cloud in Asia event taxonomy."
+  }
+]

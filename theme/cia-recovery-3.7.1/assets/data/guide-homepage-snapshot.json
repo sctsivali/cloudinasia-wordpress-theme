@@ -1,0 +1,942 @@
+{
+  "generated_at": "2026-08-30T17:54:28.769247Z",
+  "metrics": {
+    "facilities_total": 36,
+    "plans_total": 873,
+    "providers_asean": 101,
+    "providers_total": 172
+  },
+  "providers": [
+    {
+      "id": "1vps_vietnam",
+      "name": "1VPS Vietnam",
+      "url": "https://guide.cloudin.asia/provider/1vps_vietnam"
+    },
+    {
+      "id": "alchosting_net",
+      "name": "ALC Hosting",
+      "url": "https://guide.cloudin.asia/provider/alchosting_net"
+    },
+    {
+      "id": "alibaba_cloud",
+      "name": "Alibaba Cloud",
+      "url": "https://guide.cloudin.asia/provider/alibaba_cloud"
+    },
+    {
+      "id": "aws",
+      "name": "Amazon Web Services",
+      "url": "https://guide.cloudin.asia/provider/aws"
+    },
+    {
+      "id": "antmediahost_com",
+      "name": "Antmediahost",
+      "url": "https://guide.cloudin.asia/provider/antmediahost_com"
+    },
+    {
+      "id": "anyscale",
+      "name": "Anyscale",
+      "url": "https://guide.cloudin.asia/provider/anyscale"
+    },
+    {
+      "id": "asia_cloud_edge",
+      "name": "Asia Cloud Edge",
+      "url": "https://guide.cloudin.asia/provider/asia_cloud_edge"
+    },
+    {
+      "id": "aucloud",
+      "name": "AUCloud",
+      "url": "https://guide.cloudin.asia/provider/aucloud"
+    },
+    {
+      "id": "avmcloud_net",
+      "name": "AVM Cloud",
+      "url": "https://guide.cloudin.asia/provider/avmcloud_net"
+    },
+    {
+      "id": "aws_africa_cape_town",
+      "name": "AWS Africa (Cape Town)",
+      "url": "https://guide.cloudin.asia/provider/aws_africa_cape_town"
+    },
+    {
+      "id": "aws_middle_east_bahrain",
+      "name": "AWS Middle East (Bahrain)",
+      "url": "https://guide.cloudin.asia/provider/aws_middle_east_bahrain"
+    },
+    {
+      "id": "ayarcloud",
+      "name": "AyarCloud",
+      "url": "https://guide.cloudin.asia/provider/ayarcloud"
+    },
+    {
+      "id": "azdigi",
+      "name": "AZDIGI",
+      "url": "https://guide.cloudin.asia/provider/azdigi"
+    },
+    {
+      "id": "baidu_ai_cloud",
+      "name": "Baidu AI Cloud",
+      "url": "https://guide.cloudin.asia/provider/baidu_ai_cloud"
+    },
+    {
+      "id": "bangmod_cloud",
+      "name": "Bangmod.Cloud",
+      "url": "https://guide.cloudin.asia/provider/bangmod_cloud"
+    },
+    {
+      "id": "bizfly_cloud",
+      "name": "BizFly Cloud",
+      "url": "https://guide.cloudin.asia/provider/bizfly_cloud"
+    },
+    {
+      "id": "biznetgio",
+      "name": "BiznetGio",
+      "url": "https://guide.cloudin.asia/provider/biznetgio"
+    },
+    {
+      "id": "boc_co_id",
+      "name": "BOC Indonesia",
+      "url": "https://guide.cloudin.asia/provider/boc_co_id"
+    },
+    {
+      "id": "bravulink",
+      "name": "Bravulink",
+      "url": "https://guide.cloudin.asia/provider/bravulink"
+    },
+    {
+      "id": "catalyst_cloud",
+      "name": "Catalyst Cloud",
+      "url": "https://guide.cloudin.asia/provider/catalyst_cloud"
+    },
+    {
+      "id": "cerebrium",
+      "name": "Cerebrium",
+      "url": "https://guide.cloudin.asia/provider/cerebrium"
+    },
+    {
+      "id": "chief_cloud",
+      "name": "Chief Cloud",
+      "url": "https://guide.cloudin.asia/provider/chief_cloud"
+    },
+    {
+      "id": "china_unicom_cloud",
+      "name": "China Unicom Cloud",
+      "url": "https://guide.cloudin.asia/provider/china_unicom_cloud"
+    },
+    {
+      "id": "citic_cpc",
+      "name": "CITIC CPC",
+      "url": "https://guide.cloudin.asia/provider/citic_cpc"
+    },
+    {
+      "id": "cloudhm",
+      "name": "Cloud HM",
+      "url": "https://guide.cloudin.asia/provider/cloudhm"
+    },
+    {
+      "id": "cloud_sabay_com",
+      "name": "CLOUD+",
+      "url": "https://guide.cloudin.asia/provider/cloud_sabay_com"
+    },
+    {
+      "id": "cloud4c",
+      "name": "Cloud4C",
+      "url": "https://guide.cloudin.asia/provider/cloud4c"
+    },
+    {
+      "id": "cloudaja_id",
+      "name": "CloudAja",
+      "url": "https://guide.cloudin.asia/provider/cloudaja_id"
+    },
+    {
+      "id": "cloudbaik",
+      "name": "CloudBaik",
+      "url": "https://guide.cloudin.asia/provider/cloudbaik"
+    },
+    {
+      "id": "cloudkilat",
+      "name": "CloudKilat",
+      "url": "https://guide.cloudin.asia/provider/cloudkilat"
+    },
+    {
+      "id": "cloudmatika",
+      "name": "Cloudmatika",
+      "url": "https://guide.cloudin.asia/provider/cloudmatika"
+    },
+    {
+      "id": "cloudvpsviet_com",
+      "name": "CloudVPSViet",
+      "url": "https://guide.cloudin.asia/provider/cloudvpsviet_com"
+    },
+    {
+      "id": "cmc_cloud",
+      "name": "CMC Cloud",
+      "url": "https://guide.cloudin.asia/provider/cmc_cloud"
+    },
+    {
+      "id": "colossuscloud_com",
+      "name": "ColossusCloud",
+      "url": "https://guide.cloudin.asia/provider/colossuscloud_com"
+    },
+    {
+      "id": "computing_id",
+      "name": "Computing ID",
+      "url": "https://guide.cloudin.asia/provider/computing_id"
+    },
+    {
+      "id": "contabo",
+      "name": "Contabo",
+      "url": "https://guide.cloudin.asia/provider/contabo"
+    },
+    {
+      "id": "cyfuture_cloud",
+      "name": "Cyfuture Cloud",
+      "url": "https://guide.cloudin.asia/provider/cyfuture_cloud"
+    },
+    {
+      "id": "daintycloud_com",
+      "name": "DaintyCloud",
+      "url": "https://guide.cloudin.asia/provider/daintycloud_com"
+    },
+    {
+      "id": "dpdatacenter_com",
+      "name": "Daun Penh Cloud",
+      "url": "https://guide.cloudin.asia/provider/dpdatacenter_com"
+    },
+    {
+      "id": "dcloud_co_id",
+      "name": "DCloud",
+      "url": "https://guide.cloudin.asia/provider/dcloud_co_id"
+    },
+    {
+      "id": "dewavps_com",
+      "name": "DewaVPS",
+      "url": "https://guide.cloudin.asia/provider/dewavps_com"
+    },
+    {
+      "id": "dewaweb",
+      "name": "Dewaweb",
+      "url": "https://guide.cloudin.asia/provider/dewaweb"
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "url": "https://guide.cloudin.asia/provider/digitalocean"
+    },
+    {
+      "id": "dimensicloud_id",
+      "name": "DimensiCloud",
+      "url": "https://guide.cloudin.asia/provider/dimensicloud_id"
+    },
+    {
+      "id": "domainesia",
+      "name": "DomaiNesia",
+      "url": "https://guide.cloudin.asia/provider/domainesia"
+    },
+    {
+      "id": "dot_ph",
+      "name": "dotPH",
+      "url": "https://guide.cloudin.asia/provider/dot_ph"
+    },
+    {
+      "id": "douzone_cloud",
+      "name": "Douzone Cloud",
+      "url": "https://guide.cloudin.asia/provider/douzone_cloud"
+    },
+    {
+      "id": "dst_com_bn",
+      "name": "DST",
+      "url": "https://guide.cloudin.asia/provider/dst_com_bn"
+    },
+    {
+      "id": "ecloudvalley",
+      "name": "eCloudvalley",
+      "url": "https://guide.cloudin.asia/provider/ecloudvalley"
+    },
+    {
+      "id": "epldt",
+      "name": "ePLDT",
+      "url": "https://guide.cloudin.asia/provider/epldt"
+    },
+    {
+      "id": "eranyacloud",
+      "name": "Eranyacloud",
+      "url": "https://guide.cloudin.asia/provider/eranyacloud"
+    },
+    {
+      "id": "estnoc_ee",
+      "name": "EstNOC",
+      "url": "https://guide.cloudin.asia/provider/estnoc_ee"
+    },
+    {
+      "id": "exabytes",
+      "name": "Exabytes",
+      "url": "https://guide.cloudin.asia/provider/exabytes"
+    },
+    {
+      "id": "far_eastone_cloud",
+      "name": "Far EasTone Cloud",
+      "url": "https://guide.cloudin.asia/provider/far_eastone_cloud"
+    },
+    {
+      "id": "fireworks_ai",
+      "name": "Fireworks AI",
+      "url": "https://guide.cloudin.asia/provider/fireworks_ai"
+    },
+    {
+      "id": "flaz_id",
+      "name": "Flaz Cloud",
+      "url": "https://guide.cloudin.asia/provider/flaz_id"
+    },
+    {
+      "id": "fpt_smart_cloud",
+      "name": "FPT Smart Cloud",
+      "url": "https://guide.cloudin.asia/provider/fpt_smart_cloud"
+    },
+    {
+      "id": "gabia_cloud",
+      "name": "Gabia Cloud",
+      "url": "https://guide.cloudin.asia/provider/gabia_cloud"
+    },
+    {
+      "id": "globaldms_com",
+      "name": "Global Digital Management Solutions",
+      "url": "https://guide.cloudin.asia/provider/globaldms_com"
+    },
+    {
+      "id": "gmo_cloud",
+      "name": "GMO Cloud",
+      "url": "https://guide.cloudin.asia/provider/gmo_cloud"
+    },
+    {
+      "id": "google_cloud",
+      "name": "Google Cloud",
+      "url": "https://guide.cloudin.asia/provider/google_cloud"
+    },
+    {
+      "id": "google_cloud_qatar",
+      "name": "Google Cloud Qatar",
+      "url": "https://guide.cloudin.asia/provider/google_cloud_qatar"
+    },
+    {
+      "id": "google_cloud_uae",
+      "name": "Google Cloud UAE",
+      "url": "https://guide.cloudin.asia/provider/google_cloud_uae"
+    },
+    {
+      "id": "herza_cloud",
+      "name": "Herza Cloud",
+      "url": "https://guide.cloudin.asia/provider/herza_cloud"
+    },
+    {
+      "id": "hetzner_cloud",
+      "name": "Hetzner Cloud",
+      "url": "https://guide.cloudin.asia/provider/hetzner_cloud"
+    },
+    {
+      "id": "hicloud",
+      "name": "HiCloud",
+      "url": "https://guide.cloudin.asia/provider/hicloud"
+    },
+    {
+      "id": "hkt_enterprise_cloud",
+      "name": "HKT Enterprise Cloud",
+      "url": "https://guide.cloudin.asia/provider/hkt_enterprise_cloud"
+    },
+    {
+      "id": "host_id",
+      "name": "Host.id",
+      "url": "https://guide.cloudin.asia/provider/host_id"
+    },
+    {
+      "id": "hostatom",
+      "name": "HostAtom",
+      "url": "https://guide.cloudin.asia/provider/hostatom"
+    },
+    {
+      "id": "hostdata_id",
+      "name": "HostData.id",
+      "url": "https://guide.cloudin.asia/provider/hostdata_id"
+    },
+    {
+      "id": "hostdime_brazil",
+      "name": "HostDime Brazil",
+      "url": "https://guide.cloudin.asia/provider/hostdime_brazil"
+    },
+    {
+      "id": "hostinger",
+      "name": "Hostinger",
+      "url": "https://guide.cloudin.asia/provider/hostinger"
+    },
+    {
+      "id": "hostinger_vn",
+      "name": "Hostinger VN",
+      "url": "https://guide.cloudin.asia/provider/hostinger_vn"
+    },
+    {
+      "id": "hostking_host",
+      "name": "Hostking",
+      "url": "https://guide.cloudin.asia/provider/hostking_host"
+    },
+    {
+      "id": "hostvn",
+      "name": "HostVN",
+      "url": "https://guide.cloudin.asia/provider/hostvn"
+    },
+    {
+      "id": "huawei_cloud",
+      "name": "Huawei Cloud",
+      "url": "https://guide.cloudin.asia/provider/huawei_cloud"
+    },
+    {
+      "id": "idc_frontier",
+      "name": "IDC Frontier",
+      "url": "https://guide.cloudin.asia/provider/idc_frontier"
+    },
+    {
+      "id": "idcloudhost",
+      "name": "IDCloudHost",
+      "url": "https://guide.cloudin.asia/provider/idcloudhost"
+    },
+    {
+      "id": "iij_gio",
+      "name": "IIJ GIO",
+      "url": "https://guide.cloudin.asia/provider/iij_gio"
+    },
+    {
+      "id": "indonesian_cloud",
+      "name": "Indonesian Cloud",
+      "url": "https://guide.cloudin.asia/provider/indonesian_cloud"
+    },
+    {
+      "id": "interdata_my",
+      "name": "Interdata Networks",
+      "url": "https://guide.cloudin.asia/provider/interdata_my"
+    },
+    {
+      "id": "internet_solutions_africa",
+      "name": "Internet Solutions Africa",
+      "url": "https://guide.cloudin.asia/provider/internet_solutions_africa"
+    },
+    {
+      "id": "ip_serverone",
+      "name": "IP ServerOne",
+      "url": "https://guide.cloudin.asia/provider/ip_serverone"
+    },
+    {
+      "id": "jagoanhosting",
+      "name": "JagoanHosting",
+      "url": "https://guide.cloudin.asia/provider/jagoanhosting"
+    },
+    {
+      "id": "jd_cloud",
+      "name": "JD Cloud",
+      "url": "https://guide.cloudin.asia/provider/jd_cloud"
+    },
+    {
+      "id": "jetorbit",
+      "name": "JetOrbit",
+      "url": "https://guide.cloudin.asia/provider/jetorbit"
+    },
+    {
+      "id": "kakao_cloud",
+      "name": "Kakao Cloud",
+      "url": "https://guide.cloudin.asia/provider/kakao_cloud"
+    },
+    {
+      "id": "kamatera",
+      "name": "Kamatera",
+      "url": "https://guide.cloudin.asia/provider/kamatera"
+    },
+    {
+      "id": "kddi_cloud",
+      "name": "KDDI Cloud",
+      "url": "https://guide.cloudin.asia/provider/kddi_cloud"
+    },
+    {
+      "id": "king_host",
+      "name": "King.Host",
+      "url": "https://guide.cloudin.asia/provider/king_host"
+    },
+    {
+      "id": "kingsoft_cloud",
+      "name": "Kingsoft Cloud",
+      "url": "https://guide.cloudin.asia/provider/kingsoft_cloud"
+    },
+    {
+      "id": "kloud_com_ph",
+      "name": "Kloud Solutions",
+      "url": "https://guide.cloudin.asia/provider/kloud_com_ph"
+    },
+    {
+      "id": "kt_cloud",
+      "name": "KT Cloud",
+      "url": "https://guide.cloudin.asia/provider/kt_cloud"
+    },
+    {
+      "id": "laodc_com",
+      "name": "Lao Data Center",
+      "url": "https://guide.cloudin.asia/provider/laodc_com"
+    },
+    {
+      "id": "lg_cns_cloud",
+      "name": "LG CNS Cloud",
+      "url": "https://guide.cloudin.asia/provider/lg_cns_cloud"
+    },
+    {
+      "id": "limitrack_com",
+      "name": "Limitrack",
+      "url": "https://guide.cloudin.asia/provider/limitrack_com"
+    },
+    {
+      "id": "linode_akamai",
+      "name": "Linode (Akamai)",
+      "url": "https://guide.cloudin.asia/provider/linode_akamai"
+    },
+    {
+      "id": "lintasarta_cloudeka",
+      "name": "Lintasarta Cloudeka",
+      "url": "https://guide.cloudin.asia/provider/lintasarta_cloudeka"
+    },
+    {
+      "id": "liquid_telecom",
+      "name": "Liquid Telecom",
+      "url": "https://guide.cloudin.asia/provider/liquid_telecom"
+    },
+    {
+      "id": "locaweb_cloud",
+      "name": "Locaweb Cloud",
+      "url": "https://guide.cloudin.asia/provider/locaweb_cloud"
+    },
+    {
+      "id": "macquarie_cloud",
+      "name": "Macquarie Cloud",
+      "url": "https://guide.cloudin.asia/provider/macquarie_cloud"
+    },
+    {
+      "id": "maxcloud_id",
+      "name": "MaxCloud",
+      "url": "https://guide.cloudin.asia/provider/maxcloud_id"
+    },
+    {
+      "id": "melbicom_net",
+      "name": "Melbicom",
+      "url": "https://guide.cloudin.asia/provider/melbicom_net"
+    },
+    {
+      "id": "melon_cloud",
+      "name": "Melon Cloud",
+      "url": "https://guide.cloudin.asia/provider/melon_cloud"
+    },
+    {
+      "id": "microsoft_azure",
+      "name": "Microsoft Azure",
+      "url": "https://guide.cloudin.asia/provider/microsoft_azure"
+    },
+    {
+      "id": "microsoft_azure_south_africa",
+      "name": "Microsoft Azure South Africa",
+      "url": "https://guide.cloudin.asia/provider/microsoft_azure_south_africa"
+    },
+    {
+      "id": "microsoft_azure_uae",
+      "name": "Microsoft Azure UAE",
+      "url": "https://guide.cloudin.asia/provider/microsoft_azure_uae"
+    },
+    {
+      "id": "mondoze_com_my",
+      "name": "Mondoze",
+      "url": "https://guide.cloudin.asia/provider/mondoze_com_my"
+    },
+    {
+      "id": "namekh_com",
+      "name": "NameKH",
+      "url": "https://guide.cloudin.asia/provider/namekh_com"
+    },
+    {
+      "id": "naver_cloud",
+      "name": "NAVER Cloud",
+      "url": "https://guide.cloudin.asia/provider/naver_cloud"
+    },
+    {
+      "id": "neevcloud",
+      "name": "NeevCloud",
+      "url": "https://guide.cloudin.asia/provider/neevcloud"
+    },
+    {
+      "id": "nevacloud",
+      "name": "Nevacloud",
+      "url": "https://guide.cloudin.asia/provider/nevacloud"
+    },
+    {
+      "id": "nhn_cloud",
+      "name": "NHN Cloud",
+      "url": "https://guide.cloudin.asia/provider/nhn_cloud"
+    },
+    {
+      "id": "novita_ai",
+      "name": "Novita AI",
+      "url": "https://guide.cloudin.asia/provider/novita_ai"
+    },
+    {
+      "id": "ntt_enterprise_cloud",
+      "name": "NTT Enterprise Cloud",
+      "url": "https://guide.cloudin.asia/provider/ntt_enterprise_cloud"
+    },
+    {
+      "id": "nusa",
+      "name": "Nusa Cloud",
+      "url": "https://guide.cloudin.asia/provider/nusa"
+    },
+    {
+      "id": "nxtgen_cloud",
+      "name": "NxtGen Cloud",
+      "url": "https://guide.cloudin.asia/provider/nxtgen_cloud"
+    },
+    {
+      "id": "olivevps_com",
+      "name": "OliveVPS",
+      "url": "https://guide.cloudin.asia/provider/olivevps_com"
+    },
+    {
+      "id": "oneasiahost_com",
+      "name": "OneAsiaHost",
+      "url": "https://guide.cloudin.asia/provider/oneasiahost_com"
+    },
+    {
+      "id": "oracle_cloud",
+      "name": "Oracle Cloud",
+      "url": "https://guide.cloudin.asia/provider/oracle_cloud"
+    },
+    {
+      "id": "ovh",
+      "name": "OVH",
+      "url": "https://guide.cloudin.asia/provider/ovh"
+    },
+    {
+      "id": "quape_com",
+      "name": "QUAPE",
+      "url": "https://guide.cloudin.asia/provider/quape_com"
+    },
+    {
+      "id": "qwords",
+      "name": "Qwords",
+      "url": "https://guide.cloudin.asia/provider/qwords"
+    },
+    {
+      "id": "readyspace",
+      "name": "ReadySpace",
+      "url": "https://guide.cloudin.asia/provider/readyspace"
+    },
+    {
+      "id": "rise_ph",
+      "name": "RISE",
+      "url": "https://guide.cloudin.asia/provider/rise_ph"
+    },
+    {
+      "id": "rukcom",
+      "name": "Ruk-Com Cloud",
+      "url": "https://guide.cloudin.asia/provider/rukcom"
+    },
+    {
+      "id": "rumahweb",
+      "name": "Rumahweb",
+      "url": "https://guide.cloudin.asia/provider/rumahweb"
+    },
+    {
+      "id": "sakura_cloud",
+      "name": "Sakura Cloud",
+      "url": "https://guide.cloudin.asia/provider/sakura_cloud"
+    },
+    {
+      "id": "samsung_sds",
+      "name": "Samsung SDS",
+      "url": "https://guide.cloudin.asia/provider/samsung_sds"
+    },
+    {
+      "id": "server_connect",
+      "name": "Server Connect",
+      "url": "https://guide.cloudin.asia/provider/server_connect"
+    },
+    {
+      "id": "shinjiru",
+      "name": "Shinjiru",
+      "url": "https://guide.cloudin.asia/provider/shinjiru"
+    },
+    {
+      "id": "shinjiru_vps",
+      "name": "Shinjiru VPS",
+      "url": "https://guide.cloudin.asia/provider/shinjiru_vps"
+    },
+    {
+      "id": "sitedotnet",
+      "name": "SiteDotNet",
+      "url": "https://guide.cloudin.asia/provider/sitedotnet"
+    },
+    {
+      "id": "sk_cc_cloud_z",
+      "name": "SK C&C Cloud Z",
+      "url": "https://guide.cloudin.asia/provider/sk_cc_cloud_z"
+    },
+    {
+      "id": "softbank_white_cloud",
+      "name": "SoftBank White Cloud",
+      "url": "https://guide.cloudin.asia/provider/softbank_white_cloud"
+    },
+    {
+      "id": "stc_cloud",
+      "name": "stc Cloud",
+      "url": "https://guide.cloudin.asia/provider/stc_cloud"
+    },
+    {
+      "id": "datacentermap_com",
+      "name": "Tech Greencloud",
+      "url": "https://guide.cloudin.asia/provider/datacentermap_com"
+    },
+    {
+      "id": "telkom_cloud_sa",
+      "name": "Telkom Cloud SA",
+      "url": "https://guide.cloudin.asia/provider/telkom_cloud_sa"
+    },
+    {
+      "id": "telkomsigma_cloud",
+      "name": "Telkomsigma Cloud",
+      "url": "https://guide.cloudin.asia/provider/telkomsigma_cloud"
+    },
+    {
+      "id": "tencent_cloud",
+      "name": "Tencent Cloud",
+      "url": "https://guide.cloudin.asia/provider/tencent_cloud"
+    },
+    {
+      "id": "tenten_vn",
+      "name": "TENTEN.VN",
+      "url": "https://guide.cloudin.asia/provider/tenten_vn"
+    },
+    {
+      "id": "thaidata_cloud",
+      "name": "Thai Data Cloud",
+      "url": "https://guide.cloudin.asia/provider/thaidata_cloud"
+    },
+    {
+      "id": "thuevps_com",
+      "name": "thueVPS",
+      "url": "https://guide.cloudin.asia/provider/thuevps_com"
+    },
+    {
+      "id": "tooserver_net",
+      "name": "TooServer",
+      "url": "https://guide.cloudin.asia/provider/tooserver_net"
+    },
+    {
+      "id": "tpcloud",
+      "name": "TPCloud",
+      "url": "https://guide.cloudin.asia/provider/tpcloud"
+    },
+    {
+      "id": "ucloud",
+      "name": "UCloud",
+      "url": "https://guide.cloudin.asia/provider/ucloud"
+    },
+    {
+      "id": "unn",
+      "name": "UNN",
+      "url": "https://guide.cloudin.asia/provider/unn"
+    },
+    {
+      "id": "upcloud",
+      "name": "UpCloud",
+      "url": "https://guide.cloudin.asia/provider/upcloud"
+    },
+    {
+      "id": "vault_cloud",
+      "name": "Vault Cloud",
+      "url": "https://guide.cloudin.asia/provider/vault_cloud"
+    },
+    {
+      "id": "vhost_vietnam",
+      "name": "VHost Vietnam",
+      "url": "https://guide.cloudin.asia/provider/vhost_vietnam"
+    },
+    {
+      "id": "vhostweb_com",
+      "name": "VhostWeb",
+      "url": "https://guide.cloudin.asia/provider/vhostweb_com"
+    },
+    {
+      "id": "viethosting_com",
+      "name": "VietHosting",
+      "url": "https://guide.cloudin.asia/provider/viethosting_com"
+    },
+    {
+      "id": "vietidc_com",
+      "name": "VietIDC",
+      "url": "https://guide.cloudin.asia/provider/vietidc_com"
+    },
+    {
+      "id": "vietnap",
+      "name": "VietNAP",
+      "url": "https://guide.cloudin.asia/provider/vietnap"
+    },
+    {
+      "id": "viettel_idc",
+      "name": "Viettel IDC",
+      "url": "https://guide.cloudin.asia/provider/viettel_idc"
+    },
+    {
+      "id": "vietvps",
+      "name": "VietVPS",
+      "url": "https://guide.cloudin.asia/provider/vietvps"
+    },
+    {
+      "id": "vng_cloud",
+      "name": "VNG Cloud",
+      "url": "https://guide.cloudin.asia/provider/vng_cloud"
+    },
+    {
+      "id": "vng_cloud_greennode",
+      "name": "VNG Cloud (GreenNode)",
+      "url": "https://guide.cloudin.asia/provider/vng_cloud_greennode"
+    },
+    {
+      "id": "vnpt",
+      "name": "VNPT",
+      "url": "https://guide.cloudin.asia/provider/vnpt"
+    },
+    {
+      "id": "vodien_com",
+      "name": "Vodien",
+      "url": "https://guide.cloudin.asia/provider/vodien_com"
+    },
+    {
+      "id": "volcano_engine",
+      "name": "Volcano Engine",
+      "url": "https://guide.cloudin.asia/provider/volcano_engine"
+    },
+    {
+      "id": "vpls_co_th",
+      "name": "VPLS",
+      "url": "https://guide.cloudin.asia/provider/vpls_co_th"
+    },
+    {
+      "id": "vpsmalaysia",
+      "name": "VPS Malaysia",
+      "url": "https://guide.cloudin.asia/provider/vpsmalaysia"
+    },
+    {
+      "id": "vpscloud_vn",
+      "name": "VpsCloud",
+      "url": "https://guide.cloudin.asia/provider/vpscloud_vn"
+    },
+    {
+      "id": "vpshub_vn",
+      "name": "VPSHUB",
+      "url": "https://guide.cloudin.asia/provider/vpshub_vn"
+    },
+    {
+      "id": "vpsthai_com",
+      "name": "VPSThai",
+      "url": "https://guide.cloudin.asia/provider/vpsthai_com"
+    },
+    {
+      "id": "vultr",
+      "name": "Vultr",
+      "url": "https://guide.cloudin.asia/provider/vultr"
+    },
+    {
+      "id": "web_com_ph",
+      "name": "Web.com.ph",
+      "url": "https://guide.cloudin.asia/provider/web_com_ph"
+    },
+    {
+      "id": "wicloud_id",
+      "name": "WiCloud",
+      "url": "https://guide.cloudin.asia/provider/wicloud_id"
+    },
+    {
+      "id": "wowrack",
+      "name": "Wowrack",
+      "url": "https://guide.cloudin.asia/provider/wowrack"
+    },
+    {
+      "id": "zcom_th",
+      "name": "Z.com Cloud TH",
+      "url": "https://guide.cloudin.asia/provider/zcom_th"
+    },
+    {
+      "id": "zeus_cloud",
+      "name": "Zeus Cloud",
+      "url": "https://guide.cloudin.asia/provider/zeus_cloud"
+    }
+  ],
+  "pulse": {
+    "discovered": 59,
+    "latest": [
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T17:47:18.765265Z",
+        "provider_id": "colossuscloud_com",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "ColossusCloud added to the Guide",
+        "title_id": "ColossusCloud masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/colossuscloud_com"
+      },
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T17:46:54.642712Z",
+        "provider_id": "melbicom_net",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "Melbicom added to the Guide",
+        "title_id": "Melbicom masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/melbicom_net"
+      },
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T17:46:27.395653Z",
+        "provider_id": "melon_cloud",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "Melon Cloud added to the Guide",
+        "title_id": "Melon Cloud masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/melon_cloud"
+      },
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T16:49:29.979155Z",
+        "provider_id": "viethosting_com",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "VietHosting added to the Guide",
+        "title_id": "VietHosting masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/viethosting_com"
+      },
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T16:49:10.600190Z",
+        "provider_id": "tenten_vn",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "TENTEN.VN added to the Guide",
+        "title_id": "TENTEN.VN masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/tenten_vn"
+      },
+      {
+        "kind": "discovered",
+        "occurred_at": "2026-08-30T16:00:23.421618Z",
+        "provider_id": "dcloud_co_id",
+        "summary_en": "Found from the official site. Prices and halls only when written.",
+        "summary_id": "Ditemukan dari situs resmi. Harga dan gedung hanya yang tertulis.",
+        "title_en": "DCloud added to the Guide",
+        "title_id": "DCloud masuk Guide",
+        "url": "https://guide.cloudin.asia/provider/dcloud_co_id"
+      }
+    ],
+    "providers_touched": 62,
+    "signals_total": 71,
+    "updated": 12,
+    "window_days": 7
+  },
+  "schema": "cia.guide_homepage.v1",
+  "source": "https://guide.cloudin.asia/api"
+}

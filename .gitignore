@@ -1,0 +1,25 @@
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local runtime/dependency artifacts
+/node_modules/
+/vendor/
+.env
+.env.*
+!.env.example
+
+# Build and QA output
+dist/
+build/
+coverage/
+.phpunit.result.cache
+
+# WordPress runtime data must never enter this source repository
+wp-config.php
+wp-content/uploads/
+*.sql
+*.sql.gz

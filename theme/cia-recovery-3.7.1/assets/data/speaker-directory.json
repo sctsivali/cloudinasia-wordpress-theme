@@ -1,0 +1,1059 @@
+{
+  "schema": "cia.people_directory.production.v1",
+  "records_total": 48,
+  "portraits": 37,
+  "placeholders": 11,
+  "portrait_background": "#EEEEEB",
+  "display_sizes_px": [
+    144,
+    124,
+    112
+  ],
+  "source_manifest_sha256": "2c2fda76163a4ec81ce6e64775500a9d4ae1994755c932133078119da712d8f7",
+  "metrics_sha256": "9d75d4194a15cad827365e594e9df549a16d03e3a5c5c26ef33ff21e22a2f736",
+  "records": [
+    {
+      "person_id": 88,
+      "name": "Aditwn",
+      "slug": "aditwn",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        735
+      ],
+      "portrait": {
+        "theme_path": "assets/people/88-aditwn-gray-head-square-v3.png",
+        "sha256": "79b67f6f09c8fdfcbea64d10b6bfea4ff5ea0c9f7407190b058a811c0d4614eb",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -106602,
+      "name": "Affan Basalamah",
+      "slug": "affan-basalamah",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1066
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": {
+        "theme_path": "assets/people/-106602-affan-basalamah-gray-circle.png",
+        "sha256": "68126285f0f74e607b805bc937ce17c89f5fb9ea95e3580ed72db2f4393a3600",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -81801,
+      "name": "Agung Budi Prasetio",
+      "slug": "agung-budi-prasetio",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 2,
+      "article_mention_record_ids": [
+        818,
+        996
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": {
+        "theme_path": "assets/people/-81801-agung-budi-prasetio-gray-circle.png",
+        "sha256": "84925c36b98bb8c35509cd58b13e729b9f300c52db909ee70d8a76bebe2490b1",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -91801,
+      "name": "Anas Nasrulloh M.Kom",
+      "slug": "anas-nasrulloh",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        918
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": {
+        "theme_path": "assets/people/-91801-anas-nasrulloh-m-kom-gray-circle.png",
+        "sha256": "cb56999a8d8d3292918954544af3fe6ca9192422e7a7e9bd55fefd5d19236c30",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 64,
+      "name": "Andre Daegal",
+      "slug": "andre-daegal",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 3,
+      "article_mention_record_ids": [
+        406,
+        843,
+        853
+      ],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        470,
+        645
+      ],
+      "portrait": {
+        "theme_path": "assets/people/64-andre-daegal-gray-head-square-v3.png",
+        "sha256": "b208c1814216ba0dbe12248c5c6b2bbdb81e8eac0306e5f3d136fe43cdc022a8",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 78,
+      "name": "Andrey Grebennikov",
+      "slug": "andrey-grebennikov",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        616
+      ],
+      "portrait": {
+        "theme_path": "assets/people/78-andrey-grebennikov-gray-head-square-v3.png",
+        "sha256": "6a3784085d08a54857012c325b2ad173b136be807bd081e8f7e09be5c56bed3e",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 95,
+      "name": "Aolia Ikhwanuddin",
+      "slug": "aolia-ikhwanuddin",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        752
+      ],
+      "portrait": {
+        "theme_path": "assets/people/95-aolia-ikhwanuddin-gray-head-square-v3.png",
+        "sha256": "52823c9516a7d24f0612d92aed3178c8bb6369a9062b591f29aa48d9afd76816",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 71,
+      "name": "Arjuna Sheva",
+      "slug": "arjuna-sheva",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 3,
+      "speaker_event_ids": [
+        618,
+        629,
+        632
+      ],
+      "portrait": {
+        "theme_path": "assets/people/71-arjuna-sheva-gray-head-square-v3.png",
+        "sha256": "f339351a4aa734ac6363e462d8a0d25f6d9d0fe7702bc1f89b0e2f4a2fae805b",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 111,
+      "name": "Bambang Purnomosidi",
+      "slug": "bambang-purnomosidi",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        877
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/111-bambang-purnomosidi-gray-head-square-v3.png",
+        "sha256": "ef85a3bfd50c4da1b5309efeaacdc115517fc49bdac55df5859bd960abeb0cc6",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -84301,
+      "name": "Chanief Budi Setiawan",
+      "slug": "chanief-budi-setiawan",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        843
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": -99601,
+      "name": "Dayu Destamy Ariefin",
+      "slug": "dayu-destamy-ariefin",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        996
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 80,
+      "name": "Eddho Renaldi",
+      "slug": "eddho-renaldi",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        649
+      ],
+      "portrait": {
+        "theme_path": "assets/people/80-eddho-renaldi-gray-head-square-v3.png",
+        "sha256": "d1e036969d35419d50ac8268785a0331b2abad3be391cd0f2f2e7f4401ce127e",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -101801,
+      "name": "Egi Adithia Pradana",
+      "slug": "egi-adithia-pradana",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1018
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 113,
+      "name": "Eka Indarto",
+      "slug": "eka-indarto",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 2,
+      "article_mention_record_ids": [
+        458,
+        877
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/113-eka-indarto-gray-head-square-v3.png",
+        "sha256": "4e6e0269ebf820f5d909f62f5046d6777fa86d5811336494f7e59fa8282b4e2f",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 81,
+      "name": "Erick Hady",
+      "slug": "erick-hady",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        616
+      ],
+      "portrait": null
+    },
+    {
+      "person_id": 109,
+      "name": "Fandi Gunawan, ST., MTI., CISSP, ISO 27001 LI, ISO 42001 LA.",
+      "slug": "fandi-gunawan",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/109-fandi-gunawan-gray-head-square-v3.png",
+        "sha256": "a98f3af60843cecbb18cbdd4ddff99ed61e0ffc1ae60329a375e064823ade0ba",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 45,
+      "name": "Farah Zahira",
+      "slug": "farah-zahira",
+      "profile_type": "speaker",
+      "alias_note": "Nama panggung: Safira Zahira",
+      "affiliation_note": "",
+      "article_mention_records": 6,
+      "article_mention_record_ids": [
+        406,
+        420,
+        511,
+        843,
+        865,
+        877
+      ],
+      "speaker_appearances": 8,
+      "speaker_event_ids": [
+        470,
+        612,
+        629,
+        637,
+        645,
+        647,
+        649,
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/45-farah-zahira-gray-circle.png",
+        "sha256": "cefe6817ca0636a7909a9ec1e64d82110a57e889f1b2eb8b1392b7f6e2830fd4",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 94,
+      "name": "Gildas Deograt Lumy",
+      "slug": "gildas-deograt-lumy",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        877
+      ],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        470,
+        750
+      ],
+      "portrait": {
+        "theme_path": "assets/people/94-gildas-deograt-lumy-gray-head-square-v3.png",
+        "sha256": "df347776d396a840aec15d88beb4bed9f2a25c26ffdcb74a624d143ecf9a5d26",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 112,
+      "name": "Hadi Sutedjo",
+      "slug": "hadi-sutedjo",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/112-hadi-sutedjo-gray-head-square-v3.png",
+        "sha256": "c3da056f2fd501ef65de0d7041cedefaf17d0131fb1d8ca696a3b8d6d1293d6d",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 101,
+      "name": "Halim",
+      "slug": "halim",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        797
+      ],
+      "portrait": {
+        "theme_path": "assets/people/101-halim-gray-head-square-v3.png",
+        "sha256": "99877f09dc73e7f2f650ddd2911d7e11e3ff9a537940b993e0a3b92ac469123d",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 84,
+      "name": "Harry Sufehmi",
+      "slug": "harry-sufehmi",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        616,
+        750
+      ],
+      "portrait": {
+        "theme_path": "assets/people/84-harry-sufehmi-gray-head-square-v3.png",
+        "sha256": "4fe10c46f9582d17f61b75dd823d83c750da309fee13d3164ce0f434b502872a",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -44102,
+      "name": "Hendra Permana",
+      "slug": "hendra-permana",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "Tim Cloud in Asia",
+      "article_mention_records": 3,
+      "article_mention_record_ids": [
+        441,
+        898,
+        927
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 79,
+      "name": "Hendra Suryakusuma",
+      "slug": "hendra-suryakusuma",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "IDPRO",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        616,
+        649
+      ],
+      "portrait": {
+        "theme_path": "assets/people/79-hendra-suryakusuma-gray-head-square-v3.png",
+        "sha256": "934c0d2ee1f3632b52507be43cc8b827890a27a4b5528af12022d73207382689",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 90,
+      "name": "I Made Wiryana Dr., rer. nat, SSi., SKom., MSc.",
+      "slug": "i-made-wiryana",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 2,
+      "article_mention_record_ids": [
+        812,
+        877
+      ],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        470,
+        750
+      ],
+      "portrait": {
+        "theme_path": "assets/people/90-i-made-wiryana-gray-head-square-v3.png",
+        "sha256": "276461699a9cb1000af0221926501e327b78f880fc64014b2fe7730a712c7f7a",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 87,
+      "name": "Ir Dedy Hariyadi, S.T., M.Kom",
+      "slug": "ir-dedy-hariyadi-s-t-m-kom",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 2,
+      "article_mention_record_ids": [
+        843,
+        877
+      ],
+      "speaker_appearances": 3,
+      "speaker_event_ids": [
+        470,
+        735,
+        750
+      ],
+      "portrait": {
+        "theme_path": "assets/people/87-ir-dedy-hariyadi-s-t-m-kom-gray-head-square-v3.png",
+        "sha256": "50073bc0743e8eacefbf539834debdd5961b6084d7305f4e99c083eabcf117de",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 83,
+      "name": "Ir. Soegiharto Santoso, SH",
+      "slug": "ir-soegiharto-santoso-sh",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        616
+      ],
+      "portrait": null
+    },
+    {
+      "person_id": 70,
+      "name": "Jema Mawaldi",
+      "slug": "jema-mawaldi",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        420
+      ],
+      "speaker_appearances": 3,
+      "speaker_event_ids": [
+        614,
+        618,
+        647
+      ],
+      "portrait": {
+        "theme_path": "assets/people/70-jema-mawaldi-gray-head-square-v3.png",
+        "sha256": "2b46a4b713f5e7237bdbce1c6fb0c486bcc988bbdb05b044050cf145010bd442",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 73,
+      "name": "Jin Chong",
+      "slug": "jin-chong",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        640
+      ],
+      "portrait": null
+    },
+    {
+      "person_id": 76,
+      "name": "Joyce Young",
+      "slug": "joyce-young",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1052
+      ],
+      "speaker_appearances": 3,
+      "speaker_event_ids": [
+        616,
+        649,
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/76-joyce-young-gray-head-square-v3.png",
+        "sha256": "8791d4be525334286278a4833fb40c92dc374dbcef26e7abc6e995c35c079d71",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 132,
+      "name": "Leo Sun",
+      "slug": "leo-sun",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1052
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/132-leo-sun-gray-head-square-v3.png",
+        "sha256": "0fa24051657d66cf51c2af782d584a1d37054544420213cc6d5f1dcf620479f8",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -106601,
+      "name": "Marco Ariano Kristyanto",
+      "slug": "marco-ariano-kristyanto",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1066
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 114,
+      "name": "Muhammad Alif Ramadan",
+      "slug": "muhammad-alif-ramadan",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 3,
+      "article_mention_record_ids": [
+        843,
+        853,
+        1066
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/114-muhammad-alif-ramadan-gray-head-square-v3.png",
+        "sha256": "632d2bfad29653aaa0712ab2189622810cab2f4dea5d156aecf175765df0be34",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -45402,
+      "name": "Muhammad Hafizah Ramadhani",
+      "slug": "muhammad-hafizah-ramadhani",
+      "profile_type": "statement_source",
+      "alias_note": "Dipanggil: Hafiz",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        454
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 75,
+      "name": "Naeem Maver",
+      "slug": "naeem-maver",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        649
+      ],
+      "portrait": {
+        "theme_path": "assets/people/75-naeem-maver-gray-head-square-v3.png",
+        "sha256": "64cfaa9596a59590fdbe88e05990d05e991146c05790266e623a3cc55e6e38b9",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 44,
+      "name": "Onno W Purbo",
+      "slug": "onno-w-purbo",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 16,
+      "article_mention_record_ids": [
+        333,
+        377,
+        447,
+        575,
+        678,
+        738,
+        786,
+        790,
+        812,
+        843,
+        853,
+        877,
+        918,
+        924,
+        1013,
+        1083
+      ],
+      "speaker_appearances": 7,
+      "speaker_event_ids": [
+        470,
+        620,
+        629,
+        649,
+        735,
+        750,
+        752
+      ],
+      "portrait": {
+        "theme_path": "assets/people/44-onno-w-purbo-gray-head-square-v3.png",
+        "sha256": "fa03cde4756dfb70af5af69a001a19ea36ec8c973c627907408cb608cf6373bf",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 100,
+      "name": "Rafy",
+      "slug": "rafy",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        797
+      ],
+      "portrait": {
+        "theme_path": "assets/people/100-rafy-gray-head-square-v3.png",
+        "sha256": "18d3a21d1eaf872ee465be1f68d43c7f278db875d548269a1f0b8e775a71eed4",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 110,
+      "name": "Renaldy Septian",
+      "slug": "renaldy-septian",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 0,
+      "article_mention_record_ids": [],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        470
+      ],
+      "portrait": {
+        "theme_path": "assets/people/110-renaldy-septian-gray-head-square-v3.png",
+        "sha256": "3e1e7f559ddee54673645148f90008480f7571207688c4e7fa6775638e9dee24",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -45401,
+      "name": "Rifa Fida",
+      "slug": "rifa-fida",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        454
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 72,
+      "name": "Rizkyana Nurfadillah",
+      "slug": "rizkyana-nurfadillah",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        518
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        620
+      ],
+      "portrait": {
+        "theme_path": "assets/people/72-rizkyana-nurfadillah-gray-head-square-v3.png",
+        "sha256": "29c8789348aefcdbe02446547203a1d980f4807da2473674d8d4f3a8ad291438",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 60,
+      "name": "Ryo Ardian",
+      "slug": "ryo-ardian",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 6,
+      "article_mention_record_ids": [
+        333,
+        420,
+        458,
+        843,
+        877,
+        1052
+      ],
+      "speaker_appearances": 11,
+      "speaker_event_ids": [
+        470,
+        612,
+        616,
+        618,
+        629,
+        632,
+        634,
+        637,
+        647,
+        649,
+        752
+      ],
+      "portrait": {
+        "theme_path": "assets/people/60-ryo-ardian-gray-head-square-v3.png",
+        "sha256": "18ae55d15fb6d0c4eb30ce471f93fc30f2b1586fff5085bd9540f8a964b19bcc",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 133,
+      "name": "Sikander Singh",
+      "slug": "sikander-singh",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1052
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/133-sikander-singh-gray-head-square-v3.png",
+        "sha256": "9a6ccc5ed8c2f06837e192fe3401b64b99a3718870b76ca9775897582d9b3e3b",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -44101,
+      "name": "Triana Hertiani",
+      "slug": "triana-hertiani",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        441
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": {
+        "theme_path": "assets/people/-44101-triana-hertiani-gray-circle.png",
+        "sha256": "8f3cd66d35563922bb21cfca848d96ddb6aa8d5ee6c3dd31d946a5a0289e4b52",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 69,
+      "name": "Veros Mohamed",
+      "slug": "veros-mohamed",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 9,
+      "article_mention_record_ids": [
+        315,
+        431,
+        818,
+        843,
+        853,
+        982,
+        1018,
+        1045,
+        1066
+      ],
+      "speaker_appearances": 7,
+      "speaker_event_ids": [
+        585,
+        612,
+        614,
+        616,
+        620,
+        632,
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/69-veros-mohamed-gray-circle.png",
+        "sha256": "def5df1262d44d56a553025d7968b0767a1b439e20616caa1bb76bfcdbbce39c",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 85,
+      "name": "Vointra Namara Fidelito",
+      "slug": "vointra-namara-fidelito",
+      "profile_type": "speaker",
+      "alias_note": "Dipanggil: Fide",
+      "affiliation_note": "",
+      "article_mention_records": 2,
+      "article_mention_record_ids": [
+        333,
+        377
+      ],
+      "speaker_appearances": 1,
+      "speaker_event_ids": [
+        645
+      ],
+      "portrait": {
+        "theme_path": "assets/people/85-vointra-namara-fidelito-gray-circle.png",
+        "sha256": "787178936a000248e50897bdde449ceb95fed77e1cb8479d2ff24699c8a4135c",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": -99602,
+      "name": "Wakhid Herri Nurcahyo",
+      "slug": "wakhid-herri-nurcahyo",
+      "profile_type": "statement_source",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 3,
+      "article_mention_record_ids": [
+        996,
+        1018,
+        1066
+      ],
+      "speaker_appearances": 0,
+      "speaker_event_ids": [],
+      "portrait": null
+    },
+    {
+      "person_id": 96,
+      "name": "Wilson Lisan",
+      "slug": "wilson-lisan",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        877
+      ],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        470,
+        752
+      ],
+      "portrait": {
+        "theme_path": "assets/people/96-wilson-lisan-gray-head-square-v3.png",
+        "sha256": "3e8d6de95c987953f3165b3a40ca59cb8b13dd591ff243f1910461f165422dda",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 63,
+      "name": "Wong Sui Jan",
+      "slug": "wong-sui-jan",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 5,
+      "article_mention_record_ids": [
+        333,
+        381,
+        843,
+        865,
+        982
+      ],
+      "speaker_appearances": 5,
+      "speaker_event_ids": [
+        591,
+        616,
+        640,
+        642,
+        649
+      ],
+      "portrait": {
+        "theme_path": "assets/people/63-wong-sui-jan-gray-head-square-v3.png",
+        "sha256": "066f5bb6b531dafa718bfec0412e0af204e35141187f4a89c1431c5dd5b65e44",
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "person_id": 77,
+      "name": "Zhang Lei Mao",
+      "slug": "zhang-lei-mao",
+      "profile_type": "speaker",
+      "alias_note": "",
+      "affiliation_note": "",
+      "article_mention_records": 1,
+      "article_mention_record_ids": [
+        1052
+      ],
+      "speaker_appearances": 2,
+      "speaker_event_ids": [
+        649,
+        921
+      ],
+      "portrait": {
+        "theme_path": "assets/people/77-zhang-lei-mao-gray-head-square-v3.png",
+        "sha256": "73b61d38dd33a389ea989154f877ca99bd19d0fc509dc557685f726edb4c6a88",
+        "width": 400,
+        "height": 400
+      }
+    }
+  ]
+}

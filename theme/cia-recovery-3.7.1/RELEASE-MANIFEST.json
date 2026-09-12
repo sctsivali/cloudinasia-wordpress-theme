@@ -1,0 +1,649 @@
+{
+  "schema": "cia.theme.release-manifest.v1",
+  "theme": "cia-recovery-3.7.1",
+  "version": "3.7.1",
+  "files": [
+    {
+      "path": "archive-events.php",
+      "bytes": 20816,
+      "mode": "0o644",
+      "sha256": "b7aa52834380532583cf41db8219290cb1f8cc2b9520099af94499ed1be3ce98"
+    },
+    {
+      "path": "archive.php",
+      "bytes": 9744,
+      "mode": "0o644",
+      "sha256": "337f4562f613c6fed550dce97be064beb62ddafc565b640cfda8681dd65b4791"
+    },
+    {
+      "path": "assets/archive-portal.js",
+      "bytes": 3393,
+      "mode": "0o644",
+      "sha256": "6d00c4ff81f40a9a59218cfb6b3e446e78d12f803a4db928aac9e9ab57f0bbca"
+    },
+    {
+      "path": "assets/article-share.js",
+      "bytes": 3428,
+      "mode": "0o644",
+      "sha256": "59738b6e8f1c40b9f5f3c2a3642017c6339f0b5982693345001fffeefe2d3292"
+    },
+    {
+      "path": "assets/blog-motion.js",
+      "bytes": 1628,
+      "mode": "0o644",
+      "sha256": "15fec03b394010af5daa6c52101170729bbae3148a0292b91a8ea28888574437"
+    },
+    {
+      "path": "assets/cia-about.css",
+      "bytes": 6221,
+      "mode": "0o644",
+      "sha256": "5d12616da8f9842344d55d2cac32dc494caf8f632d8c069e4d119f3ac456ad02"
+    },
+    {
+      "path": "assets/cia-chrome.css",
+      "bytes": 11480,
+      "mode": "0o644",
+      "sha256": "ab279d0ad89740f77eb60129c5f781cf0caed98bf281cbfaa7fb5a997e71c316"
+    },
+    {
+      "path": "assets/cia-chrome.js",
+      "bytes": 3726,
+      "mode": "0o644",
+      "sha256": "0a7a5afc8b3cb4dd8e8206faa00729240653f79cb91ae74d8b063571a3496ffd"
+    },
+    {
+      "path": "assets/cia-ecosystem-lottie.json",
+      "bytes": 6313,
+      "mode": "0o644",
+      "sha256": "945973086080801ea8b7d6bc55e58bffa4eb0947ec3d4cbe46cd0fb50c74a31d"
+    },
+    {
+      "path": "assets/cia-editorial-refinement.css",
+      "bytes": 8471,
+      "mode": "0o644",
+      "sha256": "c38b0495dc8eb95f2d324557525749d9587e7ae50170d30f12ce962e8593715b"
+    },
+    {
+      "path": "assets/cia-editorial-signal-lottie.json",
+      "bytes": 22165,
+      "mode": "0o644",
+      "sha256": "f0cfe4ecdcf508691f68c23bf5f9133ae40f93651850f2002b94874f2fec9bda"
+    },
+    {
+      "path": "assets/cia-editorial-signal-static.png",
+      "bytes": 25368,
+      "mode": "0o644",
+      "sha256": "ea3a624e92ef34f81e5f2c192c3f712b47cb07927f01e946c32144fb7e485ede"
+    },
+    {
+      "path": "assets/cia-logo.png",
+      "bytes": 12777,
+      "mode": "0o644",
+      "sha256": "ffd6af2525a9f0bcd2418615eb0922341c241699c4957ba015908f263fcf6a1a"
+    },
+    {
+      "path": "assets/cia-southeast-asia-lottie.json",
+      "bytes": 130946,
+      "mode": "0o644",
+      "sha256": "24afc81d2a0dc1db81f40240339382bbff2a526875ecfa951c4344f855680ede"
+    },
+    {
+      "path": "assets/cia-southeast-asia-map-only.png",
+      "bytes": 137729,
+      "mode": "0o644",
+      "sha256": "5c74073b3ae8fe72b84ea6ee297ae9f1342657e28add43b72ff5dfcb0ae0c8fe"
+    },
+    {
+      "path": "assets/cia-southeast-asia-static.png",
+      "bytes": 227415,
+      "mode": "0o644",
+      "sha256": "6980f57eb8327e62b0f5e5c2ea24f3a414d1329a9451bcc68b505c06f143bbe6"
+    },
+    {
+      "path": "assets/cia-theme-surfaces.css",
+      "bytes": 6991,
+      "mode": "0o644",
+      "sha256": "9fd285fbab961a3dce786de6ab66052ee7b98c022ab2b6b52c688c3411e308d6"
+    },
+    {
+      "path": "assets/collaborators/catalog.json",
+      "bytes": 1483,
+      "mode": "0o644",
+      "sha256": "a9804aea3514bfff483f742ef4c8257cab791b33e3df6d933000ce97c26cbc27"
+    },
+    {
+      "path": "assets/collaborators/inti.png",
+      "bytes": 92872,
+      "mode": "0o644",
+      "sha256": "95e54df20f6ccdaee99f7d61d996c6d7ee60dd14a8df9cc1b551d7aa84a02c19"
+    },
+    {
+      "path": "assets/collaborators/sivali.png",
+      "bytes": 55080,
+      "mode": "0o644",
+      "sha256": "4dd4c2e4ffd10bfebaf06f97d088236a36230e567e514d298dbe1b44adb541dc"
+    },
+    {
+      "path": "assets/collaborators/unjaya.png",
+      "bytes": 97061,
+      "mode": "0o644",
+      "sha256": "d57601a5e1d48760f575a0cb30a790ee00ed03624193ad662497d5af2e4a9487"
+    },
+    {
+      "path": "assets/data/article-institutions.json",
+      "bytes": 3409,
+      "mode": "0o644",
+      "sha256": "e6d585aa37f9a89e2419049881ba0f38f0f1976ebf263b168dc1a1375d858ad8"
+    },
+    {
+      "path": "assets/data/article-mentions.json",
+      "bytes": 1433,
+      "mode": "0o644",
+      "sha256": "82c2a888a39873b812fe9e03a309d4b40640d10767f328c85d6200bcc52b5d85"
+    },
+    {
+      "path": "assets/data/event-locations.json",
+      "bytes": 4865,
+      "mode": "0o644",
+      "sha256": "18557cbd51d98f4ffc0165778d698c8076ec6e90545236e5bf14410f1decd3f6"
+    },
+    {
+      "path": "assets/data/guide-homepage-snapshot.json",
+      "bytes": 26207,
+      "mode": "0o644",
+      "sha256": "0ced32a89a150ed99948e92c702a9a8d2e9fcc8140a5431cf3cceb0ec0b846b1"
+    },
+    {
+      "path": "assets/data/speaker-directory.json",
+      "bytes": 28126,
+      "mode": "0o644",
+      "sha256": "f8e0fb20e4cac8de4f3cf41aeec4ebf29e8028b3e41a7714fa3434e13b44d19a"
+    },
+    {
+      "path": "assets/event-detail.js",
+      "bytes": 1503,
+      "mode": "0o644",
+      "sha256": "4cbce30d42258323c427a0695eb11ab787b918e57ee7182fba98a5668a938e48"
+    },
+    {
+      "path": "assets/event-explore.js",
+      "bytes": 2413,
+      "mode": "0o644",
+      "sha256": "801aa9bbcb453bdf6351af55ceb4837c4e7046a51aaf231c5ef3c020a82fa35f"
+    },
+    {
+      "path": "assets/event-gallery.js",
+      "bytes": 1332,
+      "mode": "0o644",
+      "sha256": "188a95a3f86bd69e5dbeac5c7b1d9fed4e37f4bd199c5cfacbb698667debfc90"
+    },
+    {
+      "path": "assets/event-map.js",
+      "bytes": 3055,
+      "mode": "0o644",
+      "sha256": "548fb4dd17353db5778c717aa8265736e12775174ad531f90d9b86bc4e8076c4"
+    },
+    {
+      "path": "assets/events-collaborators.css",
+      "bytes": 27377,
+      "mode": "0o644",
+      "sha256": "70b53d052079fa9ccc4897ce357e80d56cfd1a9d91835249f8d1189f083b2810"
+    },
+    {
+      "path": "assets/home-guide.js",
+      "bytes": 2634,
+      "mode": "0o644",
+      "sha256": "902ea8bea771f796e517d4d88836907e4b88fedaf0940d310c5c0763dd744000"
+    },
+    {
+      "path": "assets/home-motion.js",
+      "bytes": 1438,
+      "mode": "0o644",
+      "sha256": "e7f51bff21e497c301fd1a8bb67deac16d94c4886097e6c363e41911a56ded45"
+    },
+    {
+      "path": "assets/home-news-carousel.js",
+      "bytes": 2538,
+      "mode": "0o644",
+      "sha256": "65fc12a4442ae280351c35f686c095711f1e0d46190059c4411240edb3020a1a"
+    },
+    {
+      "path": "assets/maps/indonesia-outline.svg",
+      "bytes": 49874,
+      "mode": "0o644",
+      "sha256": "cad8c1bececc21516d4f71d955a18ebb5739a1b2a09726322881e2fe63d89404"
+    },
+    {
+      "path": "assets/partner-logos/amd.svg",
+      "bytes": 924,
+      "mode": "0o644",
+      "sha256": "637d36ef706c905033ec2de7023b78918bfd2c4e740ad108e2c34461fa17b820"
+    },
+    {
+      "path": "assets/partner-logos/catalog.json",
+      "bytes": 7467,
+      "mode": "0o644",
+      "sha256": "cab08e5bd506a9faab214430fce0ce0db184058a02547a4d5aa497c0a0cbc78f"
+    },
+    {
+      "path": "assets/partner-logos/ibi-kosgoro.png",
+      "bytes": 26548,
+      "mode": "0o644",
+      "sha256": "7da756f4c305929959641bbf03db403ab03778282ec7b22249d29dc9403b132c"
+    },
+    {
+      "path": "assets/partner-logos/institut-teknologi-tangerang-selatan.png",
+      "bytes": 35625,
+      "mode": "0o644",
+      "sha256": "35a300fd1c0ccef1752208ab8d9fbaeefee37c7daea6583b0534162d5f925863"
+    },
+    {
+      "path": "assets/partner-logos/komdigi.png",
+      "bytes": 163674,
+      "mode": "0o644",
+      "sha256": "b6cdcc7b4199a78652aee93215edc1b11d64f169258feedb86134449b702abd0"
+    },
+    {
+      "path": "assets/partner-logos/onno-center-international.png",
+      "bytes": 2811,
+      "mode": "0o644",
+      "sha256": "1997061d41001574b7ce0797a248b545183dd255a1c845b1f17052517ba9de6a"
+    },
+    {
+      "path": "assets/partner-logos/sahabat-ubuntu-indonesia.png",
+      "bytes": 18544,
+      "mode": "0o644",
+      "sha256": "2f05bbfe75f50e8f09cf3a39a2174dbbb477c49cbefbe4c9a9cd57e09aa365ef"
+    },
+    {
+      "path": "assets/partner-logos/sekolah-vokasi-universitas-gajah-mada.png",
+      "bytes": 3253,
+      "mode": "0o644",
+      "sha256": "e728514bf652c5a14a0fee94ff49b0b19b33fffc5e450fbea8c202159ce2d24e"
+    },
+    {
+      "path": "assets/partner-logos/sivali-cloud-technology.png",
+      "bytes": 55080,
+      "mode": "0o644",
+      "sha256": "4dd4c2e4ffd10bfebaf06f97d088236a36230e567e514d298dbe1b44adb541dc"
+    },
+    {
+      "path": "assets/partner-logos/telkom-university.png",
+      "bytes": 4754,
+      "mode": "0o644",
+      "sha256": "5fcf91a533e83f5ad5d609abfbf89bc859749027357a197dba168d81c40fde40"
+    },
+    {
+      "path": "assets/partner-logos/ubuntu-indonesia.png",
+      "bytes": 12480,
+      "mode": "0o644",
+      "sha256": "da73b12e2e3220c9f2cdff982b89f0f0e403e2ee42fe6fe58d0c53fd2aae0427"
+    },
+    {
+      "path": "assets/partner-logos/universitas-jenderal-achmad-yani-yogyakarta.png",
+      "bytes": 97061,
+      "mode": "0o644",
+      "sha256": "d57601a5e1d48760f575a0cb30a790ee00ed03624193ad662497d5af2e4a9487"
+    },
+    {
+      "path": "assets/partner-logos/universitas-lia.png",
+      "bytes": 84654,
+      "mode": "0o644",
+      "sha256": "601eb827a8e1779c049931d8d5ac73757c1973ef2149b5b635eadeb91094cf1b"
+    },
+    {
+      "path": "assets/partner-logos/xecureit.png",
+      "bytes": 16717,
+      "mode": "0o644",
+      "sha256": "def11cd5b81cd83445f11d257e39f513335daa9753c060f9e78cf79383433e48"
+    },
+    {
+      "path": "assets/people/-106602-affan-basalamah-gray-circle.png",
+      "bytes": 80218,
+      "mode": "0o644",
+      "sha256": "68126285f0f74e607b805bc937ce17c89f5fb9ea95e3580ed72db2f4393a3600"
+    },
+    {
+      "path": "assets/people/-44101-triana-hertiani-gray-circle.png",
+      "bytes": 39611,
+      "mode": "0o644",
+      "sha256": "8f3cd66d35563922bb21cfca848d96ddb6aa8d5ee6c3dd31d946a5a0289e4b52"
+    },
+    {
+      "path": "assets/people/-81801-agung-budi-prasetio-gray-circle.png",
+      "bytes": 62941,
+      "mode": "0o644",
+      "sha256": "84925c36b98bb8c35509cd58b13e729b9f300c52db909ee70d8a76bebe2490b1"
+    },
+    {
+      "path": "assets/people/-91801-anas-nasrulloh-m-kom-gray-circle.png",
+      "bytes": 42624,
+      "mode": "0o644",
+      "sha256": "cb56999a8d8d3292918954544af3fe6ca9192422e7a7e9bd55fefd5d19236c30"
+    },
+    {
+      "path": "assets/people/100-rafy-gray-head-square-v3.png",
+      "bytes": 46665,
+      "mode": "0o644",
+      "sha256": "18d3a21d1eaf872ee465be1f68d43c7f278db875d548269a1f0b8e775a71eed4"
+    },
+    {
+      "path": "assets/people/101-halim-gray-head-square-v3.png",
+      "bytes": 66028,
+      "mode": "0o644",
+      "sha256": "99877f09dc73e7f2f650ddd2911d7e11e3ff9a537940b993e0a3b92ac469123d"
+    },
+    {
+      "path": "assets/people/109-fandi-gunawan-gray-head-square-v3.png",
+      "bytes": 60618,
+      "mode": "0o644",
+      "sha256": "a98f3af60843cecbb18cbdd4ddff99ed61e0ffc1ae60329a375e064823ade0ba"
+    },
+    {
+      "path": "assets/people/110-renaldy-septian-gray-head-square-v3.png",
+      "bytes": 57245,
+      "mode": "0o644",
+      "sha256": "3e1e7f559ddee54673645148f90008480f7571207688c4e7fa6775638e9dee24"
+    },
+    {
+      "path": "assets/people/111-bambang-purnomosidi-gray-head-square-v3.png",
+      "bytes": 70397,
+      "mode": "0o644",
+      "sha256": "ef85a3bfd50c4da1b5309efeaacdc115517fc49bdac55df5859bd960abeb0cc6"
+    },
+    {
+      "path": "assets/people/112-hadi-sutedjo-gray-head-square-v3.png",
+      "bytes": 64291,
+      "mode": "0o644",
+      "sha256": "c3da056f2fd501ef65de0d7041cedefaf17d0131fb1d8ca696a3b8d6d1293d6d"
+    },
+    {
+      "path": "assets/people/113-eka-indarto-gray-head-square-v3.png",
+      "bytes": 77726,
+      "mode": "0o644",
+      "sha256": "4e6e0269ebf820f5d909f62f5046d6777fa86d5811336494f7e59fa8282b4e2f"
+    },
+    {
+      "path": "assets/people/114-muhammad-alif-ramadan-gray-head-square-v3.png",
+      "bytes": 43530,
+      "mode": "0o644",
+      "sha256": "632d2bfad29653aaa0712ab2189622810cab2f4dea5d156aecf175765df0be34"
+    },
+    {
+      "path": "assets/people/132-leo-sun-gray-head-square-v3.png",
+      "bytes": 55181,
+      "mode": "0o644",
+      "sha256": "0fa24051657d66cf51c2af782d584a1d37054544420213cc6d5f1dcf620479f8"
+    },
+    {
+      "path": "assets/people/133-sikander-singh-gray-head-square-v3.png",
+      "bytes": 56658,
+      "mode": "0o644",
+      "sha256": "9a6ccc5ed8c2f06837e192fe3401b64b99a3718870b76ca9775897582d9b3e3b"
+    },
+    {
+      "path": "assets/people/44-onno-w-purbo-gray-head-square-v3.png",
+      "bytes": 65704,
+      "mode": "0o644",
+      "sha256": "fa03cde4756dfb70af5af69a001a19ea36ec8c973c627907408cb608cf6373bf"
+    },
+    {
+      "path": "assets/people/45-farah-zahira-gray-circle.png",
+      "bytes": 124428,
+      "mode": "0o644",
+      "sha256": "cefe6817ca0636a7909a9ec1e64d82110a57e889f1b2eb8b1392b7f6e2830fd4"
+    },
+    {
+      "path": "assets/people/60-ryo-ardian-gray-head-square-v3.png",
+      "bytes": 55769,
+      "mode": "0o644",
+      "sha256": "18ae55d15fb6d0c4eb30ce471f93fc30f2b1586fff5085bd9540f8a964b19bcc"
+    },
+    {
+      "path": "assets/people/63-wong-sui-jan-gray-head-square-v3.png",
+      "bytes": 57128,
+      "mode": "0o644",
+      "sha256": "066f5bb6b531dafa718bfec0412e0af204e35141187f4a89c1431c5dd5b65e44"
+    },
+    {
+      "path": "assets/people/64-andre-daegal-gray-head-square-v3.png",
+      "bytes": 46408,
+      "mode": "0o644",
+      "sha256": "b208c1814216ba0dbe12248c5c6b2bbdb81e8eac0306e5f3d136fe43cdc022a8"
+    },
+    {
+      "path": "assets/people/69-veros-mohamed-gray-circle.png",
+      "bytes": 74309,
+      "mode": "0o644",
+      "sha256": "def5df1262d44d56a553025d7968b0767a1b439e20616caa1bb76bfcdbbce39c"
+    },
+    {
+      "path": "assets/people/70-jema-mawaldi-gray-head-square-v3.png",
+      "bytes": 50252,
+      "mode": "0o644",
+      "sha256": "2b46a4b713f5e7237bdbce1c6fb0c486bcc988bbdb05b044050cf145010bd442"
+    },
+    {
+      "path": "assets/people/71-arjuna-sheva-gray-head-square-v3.png",
+      "bytes": 59274,
+      "mode": "0o644",
+      "sha256": "f339351a4aa734ac6363e462d8a0d25f6d9d0fe7702bc1f89b0e2f4a2fae805b"
+    },
+    {
+      "path": "assets/people/72-rizkyana-nurfadillah-gray-head-square-v3.png",
+      "bytes": 33515,
+      "mode": "0o644",
+      "sha256": "29c8789348aefcdbe02446547203a1d980f4807da2473674d8d4f3a8ad291438"
+    },
+    {
+      "path": "assets/people/75-naeem-maver-gray-head-square-v3.png",
+      "bytes": 40978,
+      "mode": "0o644",
+      "sha256": "64cfaa9596a59590fdbe88e05990d05e991146c05790266e623a3cc55e6e38b9"
+    },
+    {
+      "path": "assets/people/76-joyce-young-gray-head-square-v3.png",
+      "bytes": 60010,
+      "mode": "0o644",
+      "sha256": "8791d4be525334286278a4833fb40c92dc374dbcef26e7abc6e995c35c079d71"
+    },
+    {
+      "path": "assets/people/77-zhang-lei-mao-gray-head-square-v3.png",
+      "bytes": 48287,
+      "mode": "0o644",
+      "sha256": "73b61d38dd33a389ea989154f877ca99bd19d0fc509dc557685f726edb4c6a88"
+    },
+    {
+      "path": "assets/people/78-andrey-grebennikov-gray-head-square-v3.png",
+      "bytes": 56536,
+      "mode": "0o644",
+      "sha256": "6a3784085d08a54857012c325b2ad173b136be807bd081e8f7e09be5c56bed3e"
+    },
+    {
+      "path": "assets/people/79-hendra-suryakusuma-gray-head-square-v3.png",
+      "bytes": 72995,
+      "mode": "0o644",
+      "sha256": "934c0d2ee1f3632b52507be43cc8b827890a27a4b5528af12022d73207382689"
+    },
+    {
+      "path": "assets/people/80-eddho-renaldi-gray-head-square-v3.png",
+      "bytes": 56375,
+      "mode": "0o644",
+      "sha256": "d1e036969d35419d50ac8268785a0331b2abad3be391cd0f2f2e7f4401ce127e"
+    },
+    {
+      "path": "assets/people/84-harry-sufehmi-gray-head-square-v3.png",
+      "bytes": 57749,
+      "mode": "0o644",
+      "sha256": "4fe10c46f9582d17f61b75dd823d83c750da309fee13d3164ce0f434b502872a"
+    },
+    {
+      "path": "assets/people/85-vointra-namara-fidelito-gray-circle.png",
+      "bytes": 38472,
+      "mode": "0o644",
+      "sha256": "787178936a000248e50897bdde449ceb95fed77e1cb8479d2ff24699c8a4135c"
+    },
+    {
+      "path": "assets/people/87-ir-dedy-hariyadi-s-t-m-kom-gray-head-square-v3.png",
+      "bytes": 72990,
+      "mode": "0o644",
+      "sha256": "50073bc0743e8eacefbf539834debdd5961b6084d7305f4e99c083eabcf117de"
+    },
+    {
+      "path": "assets/people/88-aditwn-gray-head-square-v3.png",
+      "bytes": 40703,
+      "mode": "0o644",
+      "sha256": "79b67f6f09c8fdfcbea64d10b6bfea4ff5ea0c9f7407190b058a811c0d4614eb"
+    },
+    {
+      "path": "assets/people/90-i-made-wiryana-gray-head-square-v3.png",
+      "bytes": 45596,
+      "mode": "0o644",
+      "sha256": "276461699a9cb1000af0221926501e327b78f880fc64014b2fe7730a712c7f7a"
+    },
+    {
+      "path": "assets/people/94-gildas-deograt-lumy-gray-head-square-v3.png",
+      "bytes": 57841,
+      "mode": "0o644",
+      "sha256": "df347776d396a840aec15d88beb4bed9f2a25c26ffdcb74a624d143ecf9a5d26"
+    },
+    {
+      "path": "assets/people/95-aolia-ikhwanuddin-gray-head-square-v3.png",
+      "bytes": 52177,
+      "mode": "0o644",
+      "sha256": "52823c9516a7d24f0612d92aed3178c8bb6369a9062b591f29aa48d9afd76816"
+    },
+    {
+      "path": "assets/people/96-wilson-lisan-gray-head-square-v3.png",
+      "bytes": 48279,
+      "mode": "0o644",
+      "sha256": "3e8d6de95c987953f3165b3a40ca59cb8b13dd591ff243f1910461f165422dda"
+    },
+    {
+      "path": "assets/search-archive.css",
+      "bytes": 10099,
+      "mode": "0o644",
+      "sha256": "209b070c7514ad4260f3f4c5771ba61bfb3768709643c009fe39a3a0a3e80ac5"
+    },
+    {
+      "path": "assets/theme-mode.js",
+      "bytes": 1652,
+      "mode": "0o644",
+      "sha256": "d2ca8277553df1d848487db95a8e3f46d6266909fbbfea64c92f5b7f989f27eb"
+    },
+    {
+      "path": "assets/vendor/lottie-light.min.js",
+      "bytes": 168394,
+      "mode": "0o644",
+      "sha256": "9588432bec30c8ef8200bac4a67d8aaad881047bc2a6c9fa624d90ec96402410"
+    },
+    {
+      "path": "assets/vendor/lottie-web-LICENSE.md",
+      "bytes": 1075,
+      "mode": "0o644",
+      "sha256": "9d8d4d8b4bb99572ee8b51025a30b8493d949798cac465c6c15b1b29420bcb06"
+    },
+    {
+      "path": "assets/vendor/lottie-web-version.txt",
+      "bytes": 7,
+      "mode": "0o644",
+      "sha256": "9a8144b1febcbbc4050af55ec9c34478e8dfe07593b460d36330668f81e54b30"
+    },
+    {
+      "path": "footer.php",
+      "bytes": 7139,
+      "mode": "0o644",
+      "sha256": "32e1aa16791f54c8fe4b2815042bee2814e75c83f26f78e9f2e9094080501347"
+    },
+    {
+      "path": "front-page.php",
+      "bytes": 29125,
+      "mode": "0o644",
+      "sha256": "697df2355a2a5d3bc047ca4ce25ae944db676426612cda9fbdec3cd84423ed59"
+    },
+    {
+      "path": "functions.php",
+      "bytes": 54966,
+      "mode": "0o644",
+      "sha256": "d27d1f65e8e47b324314f1676bcc5e267c319338979794aa119fd8df094d32d2"
+    },
+    {
+      "path": "header.php",
+      "bytes": 12890,
+      "mode": "0o644",
+      "sha256": "bd29f7ef7fdcd2de061867f8105c34c9e670333bc0d7c9bc4b37070eae2afa6b"
+    },
+    {
+      "path": "home.php",
+      "bytes": 8346,
+      "mode": "0o644",
+      "sha256": "8aaca5183056e5044a29fe4a9a7ca127052c1d300dfcde60cbe44f5883b0348d"
+    },
+    {
+      "path": "index.php",
+      "bytes": 39,
+      "mode": "0o644",
+      "sha256": "2b4d85d3366272c087dd4b5ec9b26c3748a46a0c121818d6f670d421ed92d74b"
+    },
+    {
+      "path": "page-about.php",
+      "bytes": 14051,
+      "mode": "0o644",
+      "sha256": "d61d0e54d8f2cd9ee186dcab4879bcbf8b31ab0b5acff064336cc768e92b5e2c"
+    },
+    {
+      "path": "page-partners.php",
+      "bytes": 10555,
+      "mode": "0o644",
+      "sha256": "4cee94728ac02519d5c262375bd06b57c6ef740f06c11b3118bfc032864d97fc"
+    },
+    {
+      "path": "page-speakers.php",
+      "bytes": 2749,
+      "mode": "0o644",
+      "sha256": "3a04447e861e9324b981657613347350e39f4997eb2e7a70cd97e82957b70836"
+    },
+    {
+      "path": "page.php",
+      "bytes": 539,
+      "mode": "0o644",
+      "sha256": "a3f62b41572513ad237efbc7b59c06444f6537076d9df24b0397dc00de5697d4"
+    },
+    {
+      "path": "search.php",
+      "bytes": 11939,
+      "mode": "0o644",
+      "sha256": "fa883782de892a109f4a40d1bf5f9ca867094668d24cfc5a4bb8609ee50ef666"
+    },
+    {
+      "path": "single-cfp_call.php",
+      "bytes": 4577,
+      "mode": "0o644",
+      "sha256": "d9a29ef352444e9e1faa8933842fa661cff87d7fade873c5cda1c4ea7c37107e"
+    },
+    {
+      "path": "single-events.php",
+      "bytes": 16258,
+      "mode": "0o644",
+      "sha256": "d55dd7774bf5c06f74aed512e40e8b187a07cbde286f8abbe1999c18f873a652"
+    },
+    {
+      "path": "single.php",
+      "bytes": 12709,
+      "mode": "0o644",
+      "sha256": "a48389dec5b5e5d8afabdb8789ac93432c05d15049e4b3c5582679a8ee54c773"
+    },
+    {
+      "path": "style.css",
+      "bytes": 114944,
+      "mode": "0o644",
+      "sha256": "16fdda52cd983a28bee7127a8c4d1b696cce563764c86eb9d15a504d67e208f1"
+    },
+    {
+      "path": "taxonomy-speakers.php",
+      "bytes": 6995,
+      "mode": "0o644",
+      "sha256": "b07f39953855c06df9588b593c278a98383dc60e512976c46d5ab9b2d1230296"
+    }
+  ]
+}

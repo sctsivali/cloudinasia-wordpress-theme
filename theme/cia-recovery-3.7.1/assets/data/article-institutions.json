@@ -1,0 +1,137 @@
+{
+  "schema": "cia.article_institutions.v1",
+  "source": "audited_published_corpus",
+  "relationship_scope": "mention_only_not_partnership",
+  "audit_sha256": "3e66162e9f064f57fdcee9a74ef975c4a0c821c32ac78f6aeb885ca1d6b20a8d",
+  "note_id": "Nama menunjukkan institusi yang disebut dalam artikel, bukan status partner atau kolaborasi aktif.",
+  "note_en": "Names indicate institutions mentioned in the article, not active partnership or collaboration status.",
+  "posts": {
+    "1052": [
+      "International Data Corporation (IDC)",
+      "Canonical",
+      "Google",
+      "PT Sivali Catur Lestari (Sivali Cloud Technology)",
+      "NIST",
+      "Pemerintah Indonesia"
+    ],
+    "996": [
+      "Kementerian Komunikasi dan Digital (Komdigi)",
+      "Institut Teknologi Tangerang Selatan (ITTS)",
+      "SMKN 1 Cibinong",
+      "Universitas Negeri Jakarta",
+      "SMKN 1 Banyumas",
+      "Universitas Islam Indonesia",
+      "Canonical"
+    ],
+    "790": [
+      "XecureIT",
+      "Simantap",
+      "PT Solusi Intek Indonesia",
+      "Institut Teknologi Tangerang Selatan (ITTS)"
+    ],
+    "575": [
+      "Institut Teknologi Tangerang Selatan (ITTS)",
+      "University of Chicago Press",
+      "ITB",
+      "Kelompok Penelitian Jaringan Komputer di ITB",
+      "Oxford Academic"
+    ],
+    "521": [
+      "Sahabat Ubuntu Indonesia"
+    ],
+    "518": [
+      "Institut Teknologi Tangerang Selatan (ITTS)",
+      "Sahabat Ubuntu Indonesia"
+    ],
+    "506": [
+      "Kementerian Komunikasi dan Informatika",
+      "European Commission",
+      "Pemerintah Estonia"
+    ],
+    "454": [
+      "Universitas Kebangsaan Republik Indonesia (UKRI) Bandung",
+      "SMK Terpadu Ad Dimyati",
+      "Canonical"
+    ],
+    "441": [
+      "Universitas Jenderal Achmad Yani Yogyakarta (Unjaya)",
+      "Fakultas Teknik dan Teknologi Informasi (FTTI)",
+      "Badan Narkotika Nasional (BNN)",
+      "Dinas Koperasi",
+      "Sivali Cloud Technology",
+      "Nira Lestari Internasional",
+      "Gorilland",
+      "TMI Indogrosir"
+    ],
+    "420": [
+      "Vokasi UGM",
+      "Canonical",
+      "Sivali Cloud Technology",
+      "ID Networkers",
+      "Hostinger",
+      "Spentera Group",
+      "Institut Teknologi Tangerang Selatan (ITTS)"
+    ],
+    "401": [
+      "Amazon Web Services (AWS)",
+      "Google Cloud",
+      "Microsoft"
+    ],
+    "326": [
+      "International Energy Agency (IEA)",
+      "Uni Eropa",
+      "TD Cowen",
+      "Microsoft",
+      "ZenDiS",
+      "Shell",
+      "Google",
+      "Pemerintah Inggris",
+      "Pemerintah Amerika Serikat"
+    ],
+    "315": [
+      "OJK",
+      "Sivali Cloud Technology",
+      "Mordor Intelligence",
+      "Litbang Kompas",
+      "Amazon Web Services (AWS)",
+      "Google Cloud",
+      "Microsoft",
+      "Statista",
+      "Data Bridge Market Research",
+      "Bonafide Research",
+      "Komunitas Ubuntu Indonesia",
+      "Canonical"
+    ],
+    "287": [
+      "Oracle",
+      "Red Hat",
+      "Canonical"
+    ],
+    "244": [
+      "Canonical",
+      "Red Hat"
+    ],
+    "220": [
+      "Canonical",
+      "Red Hat",
+      "Sardina Systems",
+      "Komunitas OpenStack global",
+      "Amazon Web Services (AWS)",
+      "Google Cloud",
+      "Microsoft",
+      "Open Infrastructure Foundation",
+      "VMware"
+    ],
+    "212": [
+      "Canonical"
+    ],
+    "149": [
+      "VMware",
+      "Canonical",
+      "Gartner"
+    ],
+    "139": [
+      "VMware"
+    ]
+  }
+}
